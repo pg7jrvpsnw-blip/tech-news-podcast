@@ -1,0 +1,341 @@
+{
+  "date": "2026-05-26",
+  "generated_at": "2026-05-27T07:00:00+08:00",
+  "items": [
+    {
+      "id": "demo001",
+      "source": "Hacker News",
+      "lang": "en",
+      "title": "OpenAI 发布 GPT-5,推理能力大幅提升,API 同步开放",
+      "link": "https://example.com/gpt5",
+      "ai_summary": "OpenAI 正式发布 GPT-5,在数学、代码和长上下文推理方面相比 GPT-4 有大幅提升。模型支持 1M 上下文窗口,推理成本下降 40%。已对企业用户开放 API,Plus 订阅者下周可用。",
+      "ai_points": [
+        "支持 1M token 上下文窗口",
+        "推理成本相比 GPT-4 下降 40%",
+        "API 已对企业用户开放,Plus 订阅者下周可用"
+      ],
+      "topic": "AI模型",
+      "importance": 5
+    },
+    {
+      "id": "demo002",
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "Anthropic 完成 60 亿美元 D 轮融资,估值达 1500 亿",
+      "link": "https://example.com/anthropic",
+      "ai_summary": "Anthropic 宣布完成 60 亿美元 D 轮融资,估值达到 1500 亿美元。本轮由 Google 领投,亚马逊跟投,资金主要用于扩大算力和模型训练。",
+      "ai_points": [
+        "估值 1500 亿美元,超越多数 SaaS 巨头",
+        "Google 领投,押注 Claude 商业化",
+        "资金用于训练 Claude 5"
+      ],
+      "topic": "创业融资",
+      "importance": 5
+    },
+    {
+      "id": "demo003",
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "DeepSeek R3 在多项基准超越 GPT-5,推理成本仅为 1/20",
+      "link": "https://example.com/deepseek-r3",
+      "ai_summary": "DeepSeek 发布 R3 系列推理模型,在 AIME、HumanEval 等基准上超越 GPT-5,推理成本仅为后者的 1/20。模型采用全新 MoE 架构,Apache 2.0 协议开源。",
+      "ai_points": [
+        "AIME 数学评测超越 GPT-5",
+        "推理成本仅为 GPT-5 的 1/20",
+        "全新 MoE 架构,完全开源"
+      ],
+      "topic": "AI模型",
+      "importance": 5
+    },
+    {
+      "id": "demo004",
+      "source": "量子位",
+      "lang": "zh",
+      "title": "字节跳动豆包大模型 1.6 上线,多模态能力对齐 GPT-5",
+      "link": "https://example.com/doubao-16",
+      "ai_summary": "字节跳动发布豆包 1.6 大模型,新增视频理解、长文档处理能力。在中文榜单 SuperCLUE 上排名第一,API 价格再降 50%。",
+      "ai_points": [
+        "中文 SuperCLUE 榜单第一",
+        "支持视频理解和长文档",
+        "API 价格再降 50%"
+      ],
+      "topic": "AI模型",
+      "importance": 4
+    },
+    {
+      "id": "demo005",
+      "source": "The Verge",
+      "lang": "en",
+      "title": "Apple Intelligence 推出'屏幕感知'功能,可读取任意 App 内容",
+      "link": "https://example.com/apple-intelligence",
+      "ai_summary": "iOS 18.5 更新引入 Screen Awareness,Siri 可读取当前屏幕内容并跨 App 操作。功能依赖 Apple 自研 30B 端侧模型,完全本地运行。",
+      "ai_points": [
+        "Siri 可读取屏幕,跨 App 操作",
+        "30B 端侧模型,本地运行",
+        "iPhone 15 Pro 及以上机型可用"
+      ],
+      "topic": "AI产品",
+      "importance": 4
+    },
+    {
+      "id": "demo006",
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "Cursor 完成 4 亿美元融资,估值突破 100 亿美元",
+      "link": "https://example.com/cursor",
+      "ai_summary": "AI 代码编辑器 Cursor 完成 4 亿美元 C 轮融资,估值达 100 亿美元。月活跃开发者超过 200 万,年化收入突破 5 亿美元。",
+      "ai_points": [
+        "估值 100 亿美元,AI Coding 第一梯队",
+        "月活开发者超 200 万",
+        "ARR 突破 5 亿美元"
+      ],
+      "topic": "创业融资",
+      "importance": 4
+    },
+    {
+      "id": "demo007",
+      "source": "少数派",
+      "lang": "zh",
+      "title": "苹果发布 M4 Pro 芯片,NPU 算力达 38 TOPS",
+      "link": "https://example.com/m4pro",
+      "ai_summary": "苹果在 WWDC 前夕发布 M4 Pro 芯片,采用第二代 3nm 工艺,CPU 性能提升 25%,GPU 提升 40%。NPU 算力达 38 TOPS,可本地跑 70B 模型。",
+      "ai_points": [
+        "第二代 3nm 工艺",
+        "NPU 38 TOPS,本地跑 70B 模型",
+        "新 MacBook Pro 七月发售"
+      ],
+      "topic": "硬件",
+      "importance": 4
+    },
+    {
+      "id": "demo008",
+      "source": "Wired",
+      "lang": "en",
+      "title": "NVIDIA Blackwell B100 量产爬坡,云厂商抢购",
+      "link": "https://example.com/nvidia-b100",
+      "ai_summary": "NVIDIA Blackwell B100 GPU 已开始量产爬坡,微软、Google、Meta、AWS 已下单总计 80 万张。单卡价格约 4 万美元,预计 Q3 大规模交付。",
+      "ai_points": [
+        "四大云厂商下单 80 万张",
+        "单卡 4 万美元",
+        "Q3 大规模交付"
+      ],
+      "topic": "硬件",
+      "importance": 4
+    },
+    {
+      "id": "demo009",
+      "source": "Engadget",
+      "lang": "en",
+      "title": "Meta Quest 4 发布,Pancake 光学加重量减轻 30%",
+      "link": "https://example.com/quest4",
+      "ai_summary": "Meta 正式发布 Quest 4 头显,采用 4K micro-OLED 屏幕和新一代 Pancake 光学,重量较 Quest 3 减轻 30%。售价 599 美元起,11 月发售。",
+      "ai_points": [
+        "4K micro-OLED 屏幕",
+        "重量减轻 30%",
+        "售价 599 美元起"
+      ],
+      "topic": "硬件",
+      "importance": 3
+    },
+    {
+      "id": "demo010",
+      "source": "IT之家",
+      "lang": "zh",
+      "title": "小米澎湃 OS 4.0 公测开启,首批支持 35 款机型",
+      "link": "https://example.com/hyperos-4",
+      "ai_summary": "小米澎湃 OS 4.0 开启公测,深度整合 MiLM 大模型,支持系统级 AI 助手、智能场景识别、跨设备无缝协同。首批适配 35 款机型,6 月全量推送。",
+      "ai_points": [
+        "深度整合 MiLM 大模型",
+        "首批 35 款机型适配",
+        "6 月全量推送"
+      ],
+      "topic": "AI产品",
+      "importance": 4
+    },
+    {
+      "id": "demo011",
+      "source": "钛媒体",
+      "lang": "zh",
+      "title": "Reddit 与 OpenAI 续签数据协议,年费上调至 7000 万美元",
+      "link": "https://example.com/reddit-openai",
+      "ai_summary": "Reddit 宣布与 OpenAI 续签训练数据授权协议,年费由原 6000 万美元上调至 7000 万美元。同时新增'实时问答'集成,Reddit 内容将出现在 ChatGPT 答案中。",
+      "ai_points": [
+        "授权年费上调至 7000 万美元",
+        "Reddit 内容进入 ChatGPT 答案",
+        "新增实时问答集成"
+      ],
+      "topic": "互联网平台",
+      "importance": 3
+    },
+    {
+      "id": "demo012",
+      "source": "Ars Technica",
+      "lang": "en",
+      "title": "TikTok 美国业务出售案进入关键阶段,Oracle 牵头收购",
+      "link": "https://example.com/tiktok-sale",
+      "ai_summary": "TikTok 美国业务出售案进入最后谈判,Oracle 牵头的财团报价 800 亿美元。算法是否一同转让仍是焦点,白宫倾向于'数据 + 算法'打包出售。",
+      "ai_points": [
+        "Oracle 财团报价 800 亿美元",
+        "算法是否打包仍有争议",
+        "白宫支持算法一同出售"
+      ],
+      "topic": "政策监管",
+      "importance": 4
+    },
+    {
+      "id": "demo013",
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "美国 FTC 对 Microsoft 启动反垄断调查,聚焦 AI 捆绑销售",
+      "link": "https://example.com/ftc-microsoft",
+      "ai_summary": "美国 FTC 对 Microsoft 启动反垄断调查,焦点在 Windows、Office、Azure 与 Copilot 的捆绑销售。调查或持续 18 个月,可能要求剥离部分 AI 产品。",
+      "ai_points": [
+        "聚焦 AI 产品捆绑销售",
+        "调查预计持续 18 个月",
+        "可能要求剥离 Copilot"
+      ],
+      "topic": "政策监管",
+      "importance": 4
+    },
+    {
+      "id": "demo014",
+      "source": "InfoQ 中文",
+      "lang": "zh",
+      "title": "国务院发布生成式 AI 备案细则,7 月 1 日实施",
+      "link": "https://example.com/china-ai-reg",
+      "ai_summary": "国务院发布《生成式人工智能服务管理暂行办法》实施细则,明确企业向公众提供 AI 服务前需完成算法备案、数据合规审查。新规 7 月 1 日实施。",
+      "ai_points": [
+        "面向公众的 AI 服务需备案",
+        "算法 + 数据双重审查",
+        "7 月 1 日实施"
+      ],
+      "topic": "政策监管",
+      "importance": 4
+    },
+    {
+      "id": "demo015",
+      "source": "Hacker News",
+      "lang": "en",
+      "title": "Hugging Face 推出 SmolAgents 框架,500 行代码搭建 Agent",
+      "link": "https://example.com/smolagents",
+      "ai_summary": "Hugging Face 开源 SmolAgents,主打极简哲学,核心代码仅 500 行。原生支持 Python 解释器作为工具,可用任意 LLM,首日 GitHub star 破 5000。",
+      "ai_points": [
+        "核心代码仅 500 行",
+        "Python 解释器原生作为工具",
+        "首日 GitHub 5000+ star"
+      ],
+      "topic": "开源工具",
+      "importance": 3
+    },
+    {
+      "id": "demo016",
+      "source": "VentureBeat AI",
+      "lang": "en",
+      "title": "Mistral 开源 Mixtral 9x22B,128K 上下文,Apache 2.0",
+      "link": "https://example.com/mistral-mixtral",
+      "ai_summary": "Mistral AI 开源 Mixtral 9x22B 模型,采用稀疏 MoE 架构,激活参数 39B,支持 128K 上下文。Apache 2.0 协议,可商用。",
+      "ai_points": [
+        "9x22B MoE,激活 39B 参数",
+        "128K 上下文",
+        "Apache 2.0 协议商用"
+      ],
+      "topic": "开源工具",
+      "importance": 3
+    },
+    {
+      "id": "demo017",
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "Google Willow 量子芯片实现 105 量子比特纠错突破",
+      "link": "https://example.com/google-willow",
+      "ai_summary": "Google 量子团队发布论文,Willow 芯片首次实现量子比特数量越多、错误率越低的'指数纠错'目标。距离实用化容错量子计算又近一步。",
+      "ai_points": [
+        "105 量子比特规模",
+        "首次实现指数纠错",
+        "迈向实用化容错量子"
+      ],
+      "topic": "学术研究",
+      "importance": 3
+    },
+    {
+      "id": "demo018",
+      "source": "爱范儿",
+      "lang": "zh",
+      "title": "Stripe 收购稳定币基础设施 Bridge,作价 11 亿美元",
+      "link": "https://example.com/stripe-bridge",
+      "ai_summary": "Stripe 宣布以 11 亿美元收购稳定币支付基础设施 Bridge,这是 Stripe 历史上最大规模收购。Bridge 让任何企业以稳定币结算成本接近零、即时到账。",
+      "ai_points": [
+        "Stripe 史上最大收购",
+        "切入稳定币支付赛道",
+        "为跨境电商降本"
+      ],
+      "topic": "创业融资",
+      "importance": 3
+    },
+    {
+      "id": "demo019",
+      "source": "The Verge",
+      "lang": "en",
+      "title": "Shopify 上线 AI Editor,商家可对话生成店铺页面",
+      "link": "https://example.com/shopify-ai",
+      "ai_summary": "Shopify 上线 AI Editor 功能,商家通过对话即可生成、修改产品页和品牌主页。底层使用 Anthropic Claude,所有 Shopify 商家免费可用。",
+      "ai_points": [
+        "对话生成产品页和主页",
+        "底层使用 Claude",
+        "全部商家免费"
+      ],
+      "topic": "互联网平台",
+      "importance": 3
+    },
+    {
+      "id": "demo020",
+      "source": "钛媒体",
+      "lang": "zh",
+      "title": "拼多多 Temu 全球月活突破 7 亿,半托管模式贡献 60% GMV",
+      "link": "https://example.com/temu",
+      "ai_summary": "Temu 公布 Q1 数据,全球月活突破 7 亿,半托管模式 GMV 占比达 60%。在美业务受关税影响下滑 15%,但欧洲、拉美增长强劲。",
+      "ai_points": [
+        "全球月活破 7 亿",
+        "半托管 GMV 占比 60%",
+        "美国市场受关税拖累"
+      ],
+      "topic": "互联网平台",
+      "importance": 3
+    },
+    {
+      "id": "demo021",
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "xAI 推出 Grok 3 Vision,可分析视频并实时输出字幕",
+      "link": "https://example.com/grok3",
+      "ai_summary": "xAI 发布 Grok 3 Vision,支持长视频分析、实时字幕、多语言翻译。集成在 X 平台,Premium+ 用户免费使用。",
+      "ai_points": [
+        "支持长视频分析",
+        "多语言实时字幕",
+        "X Premium+ 免费"
+      ],
+      "topic": "AI产品",
+      "importance": 3
+    },
+    {
+      "id": "demo022",
+      "source": "IT之家",
+      "lang": "zh",
+      "title": "理想汽车智驾系统 OTA 推送,L3 级城区辅助开放 12 城",
+      "link": "https://example.com/li-auto",
+      "ai_summary": "理想汽车 OTA 4.5 版本推送,L3 级城区智能辅助驾驶开放至 12 个城市。新增'纯视觉端到端'方案,无需高精地图。",
+      "ai_points": [
+        "L3 级城区辅助开放 12 城",
+        "纯视觉端到端方案",
+        "不依赖高精地图"
+      ],
+      "topic": "AI产品",
+      "importance": 3
+    }
+  ],
+  "script": "大家好,今天是五月二十六日,周二。这里是每日科技速读,我是你的主播。\n\n今天的头条来自 OpenAI。GPT-5 正式发布,在数学、代码和长上下文推理上有大幅提升。模型支持一百万 token 上下文窗口,推理成本相比 GPT-4 下降百分之四十。API 已经对企业用户开放,Plus 订阅者下周也能用上。\n\n紧接着是 Anthropic 的好消息。Anthropic 宣布完成六十亿美元的 D 轮融资,估值达到一千五百亿美元,Google 领投,亚马逊跟投。这笔钱主要用于训练下一代 Claude 5。\n\n开源模型方面,DeepSeek 发布了 R3 系列推理模型,在 AIME、HumanEval 等基准上超越 GPT-5,推理成本仅为后者的二十分之一。Mistral AI 也开源了 Mixtral 9x22B,激活参数三十九 B,支持十二万八千 token 上下文,Apache 2.0 协议商用。\n\n国内 AI 阵营,字节跳动发布豆包 1.6 大模型,中文 SuperCLUE 榜单第一,API 价格再降一半。Hugging Face 推出极简 Agent 框架 SmolAgents,核心代码仅五百行,首日 GitHub 星标破五千。\n\n来看 AI 产品。苹果在 iOS 18.5 推出 Screen Awareness 屏幕感知功能,Siri 可读取屏幕内容并跨 App 操作,使用三十 B 端侧模型,完全本地运行。小米澎湃 OS 4.0 开启公测,深度整合 MiLM 大模型,首批适配三十五款机型,六月全量推送。xAI 发布 Grok 3 Vision,支持长视频分析和多语言实时字幕。\n\n硬件赛道也很热闹。苹果发布 M4 Pro 芯片,采用第二代三纳米工艺,NPU 算力达三十八 TOPS,可在本地跑七十亿参数模型。NVIDIA Blackwell B100 GPU 开始量产爬坡,微软、Google、Meta、AWS 已下单总计八十万张。Meta Quest 4 头显发布,采用 4K micro-OLED 屏幕,重量较前代减轻百分之三十,售价五百九十九美元起。\n\n创投圈,AI 代码编辑器 Cursor 完成四亿美元 C 轮融资,估值达一百亿美元,月活开发者超两百万。Stripe 以十一亿美元收购稳定币基础设施 Bridge,这是 Stripe 史上最大规模收购。\n\n政策监管层面,TikTok 美国业务出售进入最后谈判,Oracle 牵头的财团报价八百亿美元。美国 FTC 对 Microsoft 启动反垄断调查,聚焦 AI 产品捆绑销售。国内,国务院发布生成式 AI 备案细则,七月一日起实施。\n\n互联网平台,Reddit 与 OpenAI 续签数据协议,年费上调至七千万美元。Shopify 上线 AI Editor,商家通过对话即可生成店铺页面,底层使用 Claude。Temu 全球月活突破七亿,半托管模式贡献六成 GMV。\n\n学术圈一条值得关注的:Google Willow 量子芯片首次实现指数纠错,距离实用化容错量子计算又近一步。\n\n以上就是今天的内容,我们明天见。",
+  "audio_url": "/audio/2026-05-26.mp3",
+  "audio_size_bytes": 6800000,
+  "duration_seconds": 472,
+  "duration_min": 8
+}

@@ -1,0 +1,27 @@
+{% extends "base.html" %}
+{% block title %}历史归档 · {{ podcast.title }}{% endblock %}
+{% block content %}
+<section class="hero" style="margin-bottom:24px">
+  <div class="hero-cover">
+    <img src="/static/cover.svg" alt="{{ podcast.title }} 封面" />
+  </div>
+  <div class="hero-meta">
+    <div class="hero-eyebrow">归档</div>
+    <h1 class="hero-title">所有期</h1>
+    <p class="hero-sub">{{ episodes|length }} 期节目，按日期倒序排列</p>
+  </div>
+</section>
+
+<div class="archive-grid">
+{% for ep in episodes %}
+  <a class="archive-card" href="/episodes/{{ ep.date }}.html">
+    <span class="date">{{ ep.date_pretty }}</span>
+    <span class="stats">
+      <span>{{ ep.count }} 条</span>
+      <span>·</span>
+      <span>{{ ep.duration_min }} 分钟</span>
+    </span>
+  </a>
+{% endfor %}
+</div>
+{% endblock %}

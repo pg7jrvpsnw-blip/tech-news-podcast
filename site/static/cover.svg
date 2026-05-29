@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 1400" width="1400" height="1400">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0a0e27"/>
+      <stop offset="55%" stop-color="#1a1f4d"/>
+      <stop offset="100%" stop-color="#ff5e3a"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.7" cy="0.3" r="0.7">
+      <stop offset="0%" stop-color="#ffb86c" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#ffb86c" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="noise">
+      <feTurbulence baseFrequency="0.9" numOctaves="2" seed="4"/>
+      <feColorMatrix values="0 0 0 0 1  0 0 0 0 1  0 0 0 0 1  0 0 0 0.06 0"/>
+      <feComposite in2="SourceGraphic" operator="in"/>
+    </filter>
+  </defs>
+  <rect width="1400" height="1400" fill="url(#bg)"/>
+  <rect width="1400" height="1400" fill="url(#glow)"/>
+  <rect width="1400" height="1400" filter="url(#noise)"/>
+
+  <!-- Wave lines -->
+  <g stroke="#ffffff" stroke-opacity="0.08" stroke-width="2" fill="none">
+    <path d="M 0 900 Q 350 820 700 900 T 1400 900"/>
+    <path d="M 0 950 Q 350 870 700 950 T 1400 950"/>
+    <path d="M 0 1000 Q 350 920 700 1000 T 1400 1000"/>
+  </g>
+
+  <!-- Title -->
+  <g font-family="-apple-system, 'PingFang SC', sans-serif" fill="#ffffff">
+    <text x="120" y="380" font-size="84" font-weight="200" letter-spacing="8" opacity="0.7">DAILY</text>
+    <text x="120" y="500" font-size="84" font-weight="200" letter-spacing="8" opacity="0.7">TECH</text>
+    <text x="120" y="780" font-size="180" font-weight="800" letter-spacing="-2">每日</text>
+    <text x="120" y="970" font-size="180" font-weight="800" letter-spacing="-2">科技速读</text>
+  </g>
+
+  <!-- Accent dot -->
+  <circle cx="1180" cy="220" r="42" fill="#ff5e3a"/>
+  <circle cx="1180" cy="220" r="14" fill="#ffffff"/>
+
+  <!-- Bottom tag -->
+  <g transform="translate(120, 1240)" font-family="-apple-system, 'PingFang SC', sans-serif" fill="#ffffff" opacity="0.55">
+    <text font-size="36" font-weight="500" letter-spacing="2">AI 主播 · 每日更新 · 5 分钟</text>
+  </g>
+</svg>

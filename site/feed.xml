@@ -1,0 +1,208 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>每日科技速读</title>
+    <link>http://localhost:8765/feed.xml</link>
+    <description>每天 5 分钟,听完昨天最重要的科技新闻。AI 总结播报,中英文一手信息。</description>
+    <atom:link href="http://localhost:8765/feed.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <image>
+      <url>http://localhost:8765/static/cover.png</url>
+      <title>每日科技速读</title>
+      <link>http://localhost:8765/feed.xml</link>
+    </image>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 29 May 2026 05:13:27 +0000</lastBuildDate>
+    <itunes:author>AI 主播</itunes:author>
+    <itunes:category text="Technology"/>
+    <itunes:image href="http://localhost:8765/static/cover.png"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>AI 主播</itunes:name>
+      <itunes:email>you@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:summary>每天 5 分钟,听完昨天最重要的科技新闻。AI 总结播报,中英文一手信息。</itunes:summary>
+    <item>
+      <title>2026-05-25 科技日报</title>
+      <link>http://localhost:8765/episodes/2026-05-25.html</link>
+      <description>共收录 2 条科技新闻。
+
+【硬件】
+· Meta 推出新一代 Ray-Ban 智能眼镜
+
+【AI模型】
+· DeepSeek 开源 V4 系列模型</description>
+      <guid isPermaLink="false">/audio/2026-05-25.mp3</guid>
+      <enclosure url="/audio/2026-05-25.mp3" length="3800000" type="audio/mpeg"/>
+      <pubDate>Mon, 25 May 2026 08:00:00 +0800</pubDate>
+      <itunes:duration>268</itunes:duration>
+      <itunes:summary>大家好,今天是五月二十五日。
+
+硬件方面,Meta 与 EssilorLuxottica 推出第三代 Ray-Ban 智能眼镜。
+
+开源圈,DeepSeek 开源 V4 系列模型。</itunes:summary>
+    </item>
+    <item>
+      <title>2026-05-26 科技日报</title>
+      <link>http://localhost:8765/episodes/2026-05-26.html</link>
+      <description>共收录 22 条科技新闻。
+
+【AI模型】
+· OpenAI 发布 GPT-5,推理能力大幅提升,API 同步开放
+· DeepSeek R3 在多项基准超越 GPT-5,推理成本仅为 1/20
+· 字节跳动豆包大模型 1.6 上线,多模态能力对齐 GPT-5
+
+【创业融资】
+· Anthropic 完成 60 亿美元 D 轮融资,估值达 1500 亿
+· Cursor 完成 4 亿美元融资,估值突破 100 亿美元
+· Stripe 收购稳定币基础设施 Bridge,作价 11 亿美元
+
+【AI产品】
+· Apple Intelligence 推出'屏幕感知'功能,可读取任意 App 内容
+· 小米澎湃 OS 4.0 公测开启,首批支持 35 款机型
+· xAI 推出 Grok 3 Vision,可分析视频并实时输出字幕
+· 理想汽车智驾系统 OTA 推送,L3 级城区辅助开放 12 城
+
+【硬件】
+· 苹果发布 M4 Pro 芯片,NPU 算力达 38 TOPS
+· NVIDIA Blackwell B100 量产爬坡,云厂商抢购
+· Meta Quest 4 发布,Pancake 光学加重量减轻 30%
+
+【互联网平台】
+· Reddit 与 OpenAI 续签数据协议,年费上调至 7000 万美元
+· Shopify 上线 AI Editor,商家可对话生成店铺页面
+· 拼多多 Temu 全球月活突破 7 亿,半托管模式贡献 60% GMV
+
+【政策监管】
+· TikTok 美国业务出售案进入关键阶段,Oracle 牵头收购
+· 美国 FTC 对 Microsoft 启动反垄断调查,聚焦 AI 捆绑销售
+· 国务院发布生成式 AI 备案细则,7 月 1 日实施
+
+【开源工具】
+· Hugging Face 推出 SmolAgents 框架,500 行代码搭建 Agent
+· Mistral 开源 Mixtral 9x22B,128K 上下文,Apache 2.0
+
+【学术研究】
+· Google Willow 量子芯片实现 105 量子比特纠错突破</description>
+      <guid isPermaLink="false">/audio/2026-05-26.mp3</guid>
+      <enclosure url="/audio/2026-05-26.mp3" length="6800000" type="audio/mpeg"/>
+      <pubDate>Tue, 26 May 2026 08:00:00 +0800</pubDate>
+      <itunes:duration>472</itunes:duration>
+      <itunes:summary>大家好,今天是五月二十六日,周二。这里是每日科技速读,我是你的主播。
+
+今天的头条来自 OpenAI。GPT-5 正式发布,在数学、代码和长上下文推理上有大幅提升。模型支持一百万 token 上下文窗口,推理成本相比 GPT-4 下降百分之四十。API 已经对企业用户开放,Plus 订阅者下周也能用上。
+
+紧接着是 Anthropic 的好消息。Anthropic 宣布完成六十亿美元的 D 轮融资,估值达到一千五百亿美元,Google 领投,亚马逊跟投。这笔钱主要用于训练下一代 Claude 5。
+
+开源模型方面,DeepSeek 发布了 R3 系列推理模型,在 AIME、HumanEval 等基准上超越 GPT-5,推理成本仅为后者的二十分之一。Mistral AI 也开源了 Mixtral 9x22B,激活参数三十九 B,支持十二万八千 token 上下文,Apache 2.0 协议商用。
+
+国内 AI 阵营,字节跳动发布豆包 1.6 大模型,中文 SuperCLUE 榜单第一,API 价格再降一半。Hugging Face 推出极简 Agent 框架 SmolAgents,核心代码仅五百行,首日 GitHub 星标破五千。
+
+来看 AI 产品。苹果在 iOS 18.5 推出 Screen Awareness 屏幕感知功能,Siri 可读取屏幕内容并跨 App 操作,使用三十 B 端侧模型,完全本地运行。小米澎湃 OS 4.0 开启公测,深度整合 MiLM 大模型,首批适配三十五款机型,六月全量推送。xAI 发布 Grok 3 Vision,支持长视频分析和多语言实时字幕。
+
+硬件赛道也很热闹。苹果发布 M4 Pro 芯片,采用第二代三纳米工艺,NPU 算力达三十八 TOPS,可在本地跑七十亿参数模型。NVIDIA Blackwell B100 GPU 开始量产爬坡,微软、Google、Meta、AWS 已下单总计八十万张。Meta Quest 4 头显发布,采用 4K micro-OLED 屏幕,重量较前代减轻百分之三十,售价五百九十九美元起。
+
+创投圈,AI 代码编辑器 Cursor 完成四亿美元 C 轮融资,估值达一百亿美元,月活开发者超两百万。Stripe 以十一亿美元收购稳定币基础设施 Bridge,这是 Stripe 史上最大规模收购。
+
+政策监管层面,TikTok 美国业务出售进入最后谈判,Oracle 牵头的财团报价八百亿美元。美国 FTC 对 Microsoft 启动反垄断调查,聚焦 AI 产品捆绑销售。国内,国务院发布生成式 AI 备案细则,七月一日起实施。
+
+互联网平台,Reddit 与 OpenAI 续签数据协议,年费上调至七千万美元。Shopify 上线 AI Editor,商家通过对话即可生成店铺页面,底层使用 Claude。Temu 全球月活突破七亿,半托管模式贡献六成 GMV。
+
+学术圈一条值得关注的:Google Willow 量子芯片首次实现指数纠错,距离实用化容错量子计算又近一步。
+
+以上就是今天的内容,我们明天见。</itunes:summary>
+    </item>
+    <item>
+      <title>2026-05-28 科技日报</title>
+      <link>http://localhost:8765/episodes/2026-05-28.html</link>
+      <description>共收录 50 条科技新闻。
+
+【硬件】
+· DeepSeek V4芯模协同背后，国产算力生态开始飞轮加速
+· 清华有了新老师：黄仁勋
+· 派早报：鸿蒙智行发布新一代问界 M9、蔚来正式推出 ES9 等
+· Steam Deck sells out in North America within 24 hours of price hike
+· Here Comes Ojai, Waymo’s New Chinese-Made Robotaxi
+
+【AI产品】
+· 世界模型接棒语言模型，这家公司全球首创物理AGI“双金字塔”体系，通用机器人进入“家庭时代”
+· 沙钢签约钉钉，让悟空成为每一位“钢铁人”的生产力工具
+· AI正在重写软件行业？8岁孩子做操作系统，一人公司拿下千万订单
+· 从零手搓 AI Agent，我学到了什么？
+· Agent 能用，为什么还是不好用？
+
+【创业融资】
+· The Download: climate tech goes public and the AI Hype Index returns
+· Climate tech companies are going public. What’s next?
+· 5篇AI生成的数学论文被接收！00后创始人洪乐潼融资14个亿
+· 江苏索普拟定增16亿元延链：技术全来自国外，一项目已拖4年
+
+【其他】
+· The AI Hype Index: AI gets booed in graduation season
+· 从原理到实践：年轻人的第一篇染发及洗护指南
+· 免费试读 | 零基础美术启蒙，该如何准备适合的美术器材
+· 蛰伏三年谋变局：通策医疗或接棒和仁科技，控制权拉锯战迎终章？
+· 大公司的 AI 账本，没有一笔算得过来
+
+【学术研究】
+· 7B打败o3、GPT-5！医学AI智能体让模型学会“看哪里、怎么看”
+· 「斯隆奖」得主戴亮全职加盟复旦
+· Bad cholesterol slashed 62% by single dose of gene-editing drug in small trial
+· 科学家们“造”了个新宇宙，却意外暴露了AI时代真正的瓶颈
+
+【开源工具】
+· 全球首个完全AI编写的训练框架来了，速度反超英伟达：面壁要用 AI 把国产算力软件重写一遍
+
+【互联网平台】
+· Snowflake绩后暴涨36%：AI拐点已至，还是数据云的又一次虚晃？
+· Amazon Thinks the Future of Data Centers Depends on a Technical Problem It Just Solved
+· Scammers Are Using Your Real Hotel Reservations to Trick You With Spear-Phishing Attacks
+· 早报｜余承东发布新问界M9：地球最强SUV /海力士市值突破1万亿美元/小红书拿下世界杯独家转播
+
+【政策监管】
+· These Ebola Researchers Are Stuck in US Due to Trump’s Funding Cuts
+· California defeats Tesla's attempt to throw out racial discrimination lawsuit
+
+【AI模型】
+· 国产AI编程冲上全球第二！实测五大模型，谁才是Vibe Coding神器</description>
+      <guid isPermaLink="false">/audio/2026-05-28.mp3</guid>
+      <enclosure url="/audio/2026-05-28.mp3" length="2768301" type="audio/mpeg"/>
+      <pubDate>Thu, 28 May 2026 08:00:00 +0800</pubDate>
+      <itunes:duration>231</itunes:duration>
+      <itunes:summary>你好，欢迎收听科技早知道。今天是二零二六年五月二十八日。让我们来看看今天科技圈都有哪些值得关注的动态。
+
+首先来看人工智能领域。大模型的商业化落地正面临成本与实效的双重考验。米哈游近期在 AI 应用中一夜烧掉价值约两百万元的 Token。这引发了行业对算力消耗能否转化为实际业务价值的强烈质疑。科技巨头们普遍陷入了不用怕被淘汰，用了又面临亏损的商业化困境。大家开始反思，单纯的算力狂欢究竟养肥了谁。
+
+另一方面，企业级 AI Agent 正在跨越从能用到好用的鸿沟。腾讯云最新发布了多款数据库智能体产品。这些 Agent 能够安全接管生产级数据库，将自然语言转化为操作指令。这解决了 AI 在核心业务落地的可靠性问题。业内讨论指出，控制模型幻觉和确保工作流稳定性，是目前智能体走向生产级的关键差距。
+
+而在代码生成端，AI 正在实质性地重构软件开发流程。一名八岁儿童已经开始借助 AI 辅助开发操作系统。同时，不懂代码的一人公司也能通过 AI 工具拿下千万级订单。最新实测显示，某国产大模型在意图驱动编程场景下的综合性能已跃居全球第二。单兵作战的全栈开发模式正在成为现实。
+
+说完了 AI 软件端，我们再把目光转向底层的算力与硬件基础设施。
+
+随着智能体应用的发展，底层计算架构正在发生深刻变化。华为提出了昇腾负责推理，鲲鹏负责智能体调度的算力分工模式。这打破了以往过度依赖 GPU 的局面，让 CPU 在复杂逻辑控制中重新回到舞台中央。
+
+国产算力生态的飞轮也在加速运转。面壁智能推出了全球首个完全由 AI 编写的模型训练框架。该框架在特定测试中的运行速度甚至反超了 NVIDIA 的同类软件。同时，DeepSeek V4 采用了芯模协同技术，大幅提升了国产芯片支撑大规模训练的可用性。
+
+巨头们也在重金押注算力基础设施。宁德时代斥资一百零五亿元入局 AI 数据中心业务。他们希望利用在电池储能领域的深厚积累，切入高耗能的算力产业链，提供一揽子能源解决方案。而亚马逊也宣布在数据中心网络技术上取得重大突破。这极大加速了其云基础设施内部的数据流动效率，缓解了 AI 训练面临的网络吞吐量瓶颈。
+
+在硬件与算力打好基础的同时，消费级终端和机器人赛道也迎来了新的爆发。
+
+具身智能正在加速走向家庭和大众市场。国内某科技公司提出了全球首创的物理 AGI 双金字塔体系。他们试图以世界模型取代纯语言模型，推动通用机器人从工业走向家庭。云鲸智能创始人也预测，两年后扫地机器人将标配机械臂，能干更多复杂的家务活。
+
+穿戴设备也在全面接入 AI。科大讯飞正式发布了首款 AI 眼镜产品，整机仅重四十克。产品主打移动端 AI 工作流，试图以轻量化设计切入智能穿戴市场。同时，Oura 发布了第五代智能戒指。新款设备引入了由人工智能驱动的健康教练功能，从被动的数据追踪转向了主动式健康管理。
+
+出行领域方面，自动驾驶商业化规模进一步扩大。Waymo 宣布将在美国加州等地推出全新的 Robotaxi 车队。值得注意的是，这款专为无人驾驶设计的车辆由中国厂商极氪代工生产。
+
+最后，我们来看几条关于创业融资与商业政策的简讯。
+
+AI 辅助科研正获得顶级资本的青睐。零零后创业者洪乐潼创立的 AI 团队近期完成了高达十四亿元的巨额融资。其研发的系统已成功生成并形式化证明了多篇数学论文，五篇被学术期刊接收。
+
+数据云服务商 Snowflake 发布财报后股价暴涨百分之三十六。他们与 AWS 达成了一份价值六十亿美元的战略合作协议。市场将此视为企业端 AI 支出红利正在向应用软件层转移的重要风向标。
+
+政策合规方面，特斯拉在种族歧视诉讼中遭遇挫折。加州法院正式驳回了特斯拉试图撤销诉讼的请求。该案件涉及加州工厂针对少数族裔员工的系统性歧视指控，双方将在今年七月正式进入庭审阶段。
+
+以上就是今天的内容，我们明天见。</itunes:summary>
+    </item>
+  </channel>
+</rss>

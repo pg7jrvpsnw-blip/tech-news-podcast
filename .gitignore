@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# venv
+.venv
+
+# secrets
+.env
+
+# 大文件不进 Git(关键!音频走 R2,本地暂存不提交)
+site/audio/*.mp3
+*.mp3
+
+# 系统
+.DS_Store

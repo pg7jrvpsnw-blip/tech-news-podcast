@@ -1,0 +1,102 @@
+{% extends "base.html" %}
+{% block title %}{{ episode.date_pretty }} · {{ podcast.title }}{% endblock %}
+{% block content %}
+
+<section class="hero">
+  <div class="hero-cover">
+    <img src="/static/cover.svg" alt="{{ podcast.title }} 封面" />
+  </div>
+  <div class="hero-meta">
+    <div class="hero-eyebrow">最新一期 · {{ episode.weekday }}</div>
+    <h1 class="hero-title">{{ episode.date_pretty }} 科技日报</h1>
+    <p class="hero-sub">{{ episode.lead or '昨日科技要闻速读，AI 主播为你播报。' }}</p>
+    <div class="hero-stats">
+      <span><strong>{{ episode['items']|length }}</strong> 条新闻</span>
+      <span class="dot">·</span>
+      <span>约 <strong>{{ episode.duration_min or '—' }}</strong> 分钟</span>
+      <span class="dot">·</span>
+      <span>{{ episode.topic_count }} 个主题</span>
+    </div>
+  </div>
+</section>
+
+{% if episode.audio_url %}
+<div class="player" data-player
+     data-title="{{ episode.date_pretty }} 科技日报"
+     data-album="{{ podcast.title }}"
+     data-artist="{{ podcast.author }}"
+     data-artwork="/static/cover.png">
+  <audio preload="metadata" src="{{ episode.audio_url }}"></audio>
+  <div class="player-row">
+    <button class="btn-skip" data-skip="-15" aria-label="后退 15 秒">-15</button>
+    <button class="btn-play" aria-label="播放/暂停">
+      <svg data-icon-play viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg>
+      <svg data-icon-pause viewBox="0 0 24 24" aria-hidden="true" style="display:none"><path d="M6 5h4v14H6zm8 0h4v14h-4z"/></svg>
+    </button>
+    <button class="btn-skip" data-skip="15" aria-label="前进 15 秒">+15</button>
+    <span class="player-times"><span class="now">0:00</span> / <span class="dur">--:--</span></span>
+  </div>
+  <div class="player-bar">
+    <div class="player-bar-fill"></div>
+    <div class="player-bar-thumb"></div>
+  </div>
+  <div class="player-aux">
+    <div class="speed">
+      <button data-speed="1" class="on">1×</button>
+      <button data-speed="1.25">1.25×</button>
+      <button data-speed="1.5">1.5×</button>
+      <button data-speed="2">2×</button>
+    </div>
+    <a class="download" href="{{ episode.audio_url }}" download>
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 3v12m0 0l-4-4m4 4l4-4M4 21h16"/></svg>
+      下载 mp3
+    </a>
+  </div>
+</div>
+{% else %}
+<div class="player" style="text-align:center;color:var(--text-3);padding:32px;">
+  本期音频暂未生成（运行 <code>python -m src.main</code> 不带 --skip-tts 即可生成）
+</div>
+{% endif %}
+
+<details class="script">
+  <summary>展开播音稿全文（{{ episode.script|length }} 字）</summary>
+  <div class="script-body">{{ episode.script }}</div>
+</details>
+
+<h2 class="section-title">逐条要点</h2>
+{% for topic, items in episode.by_topic.items() %}
+<section class="topic">
+  <div class="topic-head">
+    <h3>{{ topic }}</h3>
+    <span class="topic-count">{{ items|length }}</span>
+  </div>
+  <ul class="news-list">
+    {% for it in items %}
+    <li class="news-card">
+      <div class="news-head">
+        <span class="news-importance" title="重要性 {{ it.importance }}/5">
+          {% for i in range(5) %}<span class="d {% if i < it.importance %}on{% endif %}"></span>{% endfor %}
+        </span>
+        <a class="title" href="{{ it.link }}" target="_blank" rel="noopener">{{ it.title }}</a>
+      </div>
+      <div class="news-meta">
+        <span class="lang">{{ it.lang|upper }}</span>
+        <span class="source">{{ it.source }}</span>
+      </div>
+      <p class="news-summary">{{ it.ai_summary }}</p>
+      {% if it.ai_points %}
+      <ul class="news-points">
+        {% for p in it.ai_points %}<li>{{ p }}</li>{% endfor %}
+      </ul>
+      {% endif %}
+    </li>
+    {% endfor %}
+  </ul>
+</section>
+{% endfor %}
+
+{% endblock %}
+{% block scripts %}
+<script src="/static/player.js" defer></script>
+{% endblock %}

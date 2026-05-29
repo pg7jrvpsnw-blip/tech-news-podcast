@@ -1,0 +1,911 @@
+{
+  "date": "2026-05-28",
+  "generated_at": "2026-05-29T10:33:03.110303+08:00",
+  "items": [
+    {
+      "id": "f033dc238f467cfb",
+      "source": "量子位",
+      "lang": "zh",
+      "weight": 3,
+      "title": "DeepSeek V4芯模协同背后，国产算力生态开始飞轮加速",
+      "link": "https://www.qbitai.com/2026/05/426293.html",
+      "published": "2026-05-28T21:32:39+08:00",
+      "summary_raw": "国产算力是潮流，先用起来。",
+      "ai_summary": "DeepSeek V4 采用芯模协同技术，标志着国产算力生态正加速形成飞轮效应。通过软硬件底层的深度适配与联合优化，国产芯片在支撑大规模 AI 模型训练与推理方面的可用性大幅提升。这一进展表明国内大模型企业正在积极拥抱本土算力，推动算力产业链的自主可控与技术快速迭代。",
+      "ai_points": [
+        "DeepSeek V4 采用芯模协同技术，深化了国产算力与大模型的底层适配。",
+        "证明国产芯片在支撑大规模模型训练与推理上的可用性正在不断提升。",
+        "对国内AI大模型厂商及本土芯片企业有积极示范作用，推动生态发展。"
+      ],
+      "topic": "硬件",
+      "importance": 3
+    },
+    {
+      "id": "6c19df89b05698b1",
+      "source": "量子位",
+      "lang": "zh",
+      "weight": 3,
+      "title": "世界模型接棒语言模型，这家公司全球首创物理AGI“双金字塔”体系，通用机器人进入“家庭时代”",
+      "link": "https://www.qbitai.com/2026/05/426237.html",
+      "published": "2026-05-28T21:01:16+08:00",
+      "summary_raw": "12个月冲击物理AGI的“GPT-3时刻”",
+      "ai_summary": "某国内科技公司提出全球首创的物理 AGI“双金字塔”体系，试图以世界模型取代纯语言模型作为具身智能的核心。该体系旨在显著提升机器人对物理世界的认知、理解与交互能力，推动通用机器人从工业场景迈向家庭应用场景。公司计划在未来十二个月内实现物理 AGI 领域的关键技术突破。",
+      "ai_points": [
+        "企业推出物理 AGI“双金字塔”体系，以世界模型作为具身智能核心。",
+        "标志着机器人技术路线正从纯语言模型向多模态物理世界理解方向演进。",
+        "将直接推动通用机器人在家庭等复杂场景的落地，影响具身智能从业者。"
+      ],
+      "topic": "AI产品",
+      "importance": 3
+    },
+    {
+      "id": "2e2f3f424ca88a83",
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "weight": 3,
+      "title": "The Download: climate tech goes public and the AI Hype Index returns",
+      "link": "https://www.technologyreview.com/2026/05/28/1138085/the-download-climate-tech-ipos-ai-hype-index/",
+      "published": "2026-05-28T20:10:00+08:00",
+      "summary_raw": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Climate tech companies are going public. What’s next? Solar and battery company Solv Energy went public in February, hitting a $6 billion valuation. X-energy, which builds small modular nuclear reactors, followed&#8230;",
+      "ai_summary": "《MIT Tech Review》发布的最新行业动态指出，气候科技公司正迎来上市热潮。太阳能及电池企业 Solv Energy 于二月以六十亿美元估值上市，小型模块化核反应堆开发商 X-energy 紧随其后。同时，市场对 AI 技术的过度炒作情绪也在受到重估，反映出科技资本市场对新能源与 AI 的关注度正在演变。",
+      "ai_points": [
+        "Solv Energy 与 X-energy 等气候科技与新能源公司相继在美股完成上市。",
+        "反映了资本市场对清洁能源及小型核电等应对气候变化技术的信心回升。",
+        "对气候科技创业者及一二级市场投资者在退出路径与资金流向上有指导意义。"
+      ],
+      "topic": "创业融资",
+      "importance": 3
+    },
+    {
+      "id": "74e02c6bda8270cf",
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "weight": 3,
+      "title": "Climate tech companies are going public. What’s next?",
+      "link": "https://www.technologyreview.com/2026/05/28/1138067/climate-tech-ipos/",
+      "published": "2026-05-28T18:00:00+08:00",
+      "summary_raw": "This year, there’s been a wave of notable energy companies going public via IPO in the US. The solar and battery company Solv Energy went public in February, to the tune of $6 billion. X-energy, which is building small modular nuclear reactors, did the same in April, and its stocks surged on its first day&#8230;",
+      "ai_summary": "美国气候科技企业在今年迎来通过 IPO 走向公开市场的浪潮。其中，太阳能与电池储能公司 Solv Energy 于二月成功上市，估值达到六十亿美元；致力于研发小型模块化核反应堆的企业 X-energy 也在四月完成上市，其股价在首个交易日出现大幅上涨。这一趋势显示出资本对绿色能源技术的持续加码。",
+      "ai_points": [
+        "Solv Energy 与 X-energy 两家气候科技企业年内相继在美国完成 IPO。",
+        "小型核反应堆与新能源储能技术正跨越早期研发阶段，获得二级市场认可。",
+        "为气候科技赛道的创业公司打通了退出通道，提振了相关领域投资者的信心。"
+      ],
+      "topic": "创业融资",
+      "importance": 3
+    },
+    {
+      "id": "5697c10e2e9288ec",
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "weight": 3,
+      "title": "The AI Hype Index: AI gets booed in graduation season",
+      "link": "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/",
+      "published": "2026-05-28T17:51:11+08:00",
+      "summary_raw": "It is one thing to say AI will change the world. It is another to expect the class of 2026 to applaud it. In fact, when former Google CEO Eric Schmidt told University of Arizona graduates that their task is to help shape AI, he was met with a resounding chorus of boos. “I can&#8230;",
+      "ai_summary": "在近期的毕业季演讲中，AI 技术引发了部分公众的反感情绪。Google 前 CEO Eric Schmidt 在亚利桑那大学向毕业生发表演讲时，提出年轻一代的任务是参与塑造 AI 的未来，该言论遭到现场学生的一致嘘声。这一事件客观反映出普通民众对 AI 概念过度炒作的疲劳，以及对技术潜在负面影响的担忧。",
+      "ai_points": [
+        "Google 前 CEO Eric Schmidt 鼓励毕业生塑造 AI 的言论在演讲中遭到嘘声。",
+        "标志着公众对科技界持续渲染的 AI 变革论产生疲劳与抵触心理。",
+        "提醒 AI 创业者与平台方需关注技术落地时的社会接受度与伦理舆论风险。"
+      ],
+      "topic": "其他",
+      "importance": 2
+    },
+    {
+      "id": "3e2e306b8e23e129",
+      "source": "少数派",
+      "lang": "zh",
+      "weight": 3,
+      "title": "从原理到实践：年轻人的第一篇染发及洗护指南",
+      "link": "https://sspai.com/prime/story/hair-dye-tutorial",
+      "published": "2026-05-28T17:42:02+08:00",
+      "summary_raw": "我不用染发来对抗岁月，但我用它来对抗焦虑。<p>[......]</p><a href=\"https://sspai.com/prime/story/hair-dye-tutorial\" target=\"_blank\">查看全文</a><p>本文为会员文章，出自<a href=\"https://sspai.com/prime/precog/single\" target=\"_blank\">《单篇文章》</a>，订阅后可阅读全文。</p>",
+      "ai_summary": "少数派发布了一篇面向年轻用户的染发及洗护科普指南。文章从化学原理出发，详细讲解了不同类型染发剂的作用机制、操作步骤以及染后的头发护理方法。该内容旨在帮助用户科学、安全地进行自助染发，缓解因外貌焦虑带来的心理压力。此文章目前为少数派平台的付费会员专属内容。",
+      "ai_points": [
+        "少数派上线了一篇详细讲解染发原理与日常洗护实践的科普类会员文章。",
+        "将复杂的化学美发过程转化为易懂的操作指南，降低了用户的试错成本。",
+        "主要面向有自助染发需求及关注个人形象护理的年轻互联网内容消费者。"
+      ],
+      "topic": "其他",
+      "importance": 1
+    },
+    {
+      "id": "6cc522c5baed687f",
+      "source": "量子位",
+      "lang": "zh",
+      "weight": 3,
+      "title": "沙钢签约钉钉，让悟空成为每一位“钢铁人”的生产力工具",
+      "link": "https://www.qbitai.com/2026/05/426223.html",
+      "published": "2026-05-28T16:47:27+08:00",
+      "summary_raw": "实现AI技术从“能力”到“价值”的转化",
+      "ai_summary": "国内钢铁巨头沙钢集团正式与钉钉达成战略签约，全面引入钉钉及其内置的 AI 助手“悟空”作为企业生产力工具。此次合作旨在推动传统钢铁制造行业的数字化转型，通过 AI 技术优化内部协同流程与业务管理效率。这标志着大模型与 AI 智能体应用正在加速向实体制造业渗透，实现技术能力的商业价值转化。",
+      "ai_points": [
+        "沙钢集团与钉钉签约，全面引入 AI 助手悟空作为内部协同与办公工具。",
+        "展现了传统重工业积极拥抱 AI 智能体，推动数字化与智能化转型的趋势。",
+        "对钉钉等 ToB 平台拓展实体制造业客户具有商业示范效应，影响企服行业。"
+      ],
+      "topic": "AI产品",
+      "importance": 3
+    },
+    {
+      "id": "5f0cf307cfc7327a",
+      "source": "量子位",
+      "lang": "zh",
+      "weight": 3,
+      "title": "5篇AI生成的数学论文被接收！00后创始人洪乐潼融资14个亿",
+      "link": "https://www.qbitai.com/2026/05/426198.html",
+      "published": "2026-05-28T16:11:40+08:00",
+      "summary_raw": "8篇由同一个系统生成或形式化证明的数学论文",
+      "ai_summary": "零零后创业者洪乐潼创立的 AI 团队近期在学术与商业双线取得突破，其研发的 AI 系统成功生成并形式化证明了多篇数学论文，其中五篇已被学术期刊接收。基于这一在自动定理证明领域的显著技术进展，该团队近期顺利完成高达十四亿元人民币的巨额融资，体现出顶尖资本对利用 AI 突破基础科学研究的高度看好。",
+      "ai_points": [
+        "洪乐潼团队研发的 AI 系统生成的五篇数学论文正式被学术界接收并认可。",
+        "证明了 AI 在复杂数学定理形式化证明与基础科学研究中具备了实用价值。",
+        "该项目获十四亿元融资，将激励更多资本与从业者投入 AI for Science 领域。"
+      ],
+      "topic": "创业融资",
+      "importance": 4
+    },
+    {
+      "id": "83c803ac13d334b1",
+      "source": "量子位",
+      "lang": "zh",
+      "weight": 3,
+      "title": "7B打败o3、GPT-5！医学AI智能体让模型学会“看哪里、怎么看”",
+      "link": "https://www.qbitai.com/2026/05/426150.html",
+      "published": "2026-05-28T16:01:57+08:00",
+      "summary_raw": "医学AI Agent到了关键拐点",
+      "ai_summary": "近期，一项关于医学领域的 AI Agent 研究引发关注，其宣称一个 7B（70亿）参数规模的医学智能体在特定任务上超越了 o3 和 GPT-5 等前沿大模型。该研究的核心在于让 AI 智能体掌握“看哪里、怎么看”的诊断逻辑，从而显著提升医学图像与临床数据的分析准确度。这标志着垂直领域的 AI Agent 在专业能力上达到了新的技术拐点，展现出小参数模型在特定场景下的巨大潜力。",
+      "ai_points": [
+        "发生了什么：一项 7B 参数规模的医学 AI Agent 研究宣称在特定医疗任务中表现优于 o3 及 GPT-5 等大模型。",
+        "为什么重要：证明了赋予模型特定领域的诊断逻辑，能让小参数模型在垂直场景和专业准确度上超越通用大模型。",
+        "对谁有影响：对医疗 AI 开发者、医院信息化团队及关注垂直领域智能体商业落地的产品经理具有重要参考价值。"
+      ],
+      "topic": "学术研究",
+      "importance": 3
+    },
+    {
+      "id": "e4f99b837c95c320",
+      "source": "量子位",
+      "lang": "zh",
+      "weight": 3,
+      "title": "AI正在重写软件行业？8岁孩子做操作系统，一人公司拿下千万订单",
+      "link": "https://www.qbitai.com/2026/05/426069.html",
+      "published": "2026-05-28T15:34:57+08:00",
+      "summary_raw": "“87%用户不懂代码，却用AI跑通了一人公司”",
+      "ai_summary": "随着 AI 编程工具的普及，软件开发行业的门槛正在大幅降低。据报道，目前已有 8 岁儿童借助 AI 辅助开发操作系统，同时出现不懂代码的“一人公司”通过 AI 工具完成复杂业务开发并拿下千万级订单的案例。数据显示，大量非技术背景用户正在通过 AI 跑通业务流程。这表明 AI 正在实质性地重构软件开发流程，将应用创造的权利下放到更广泛的非专业开发者群体中。",
+      "ai_points": [
+        "发生了什么：非技术人员（如儿童和一人公司）正借助 AI 编程工具完成复杂的软件开发，甚至获得千万级订单。",
+        "为什么重要：打破了传统软件开发的极高技术门槛，使得业务逻辑和创意成为创造软件产品的核心竞争力。",
+        "对谁有影响：深远影响传统软件工程师的职业发展、低代码平台创业者以及希望通过技术工具实现业务变现的产品经理。"
+      ],
+      "topic": "AI产品",
+      "importance": 4
+    },
+    {
+      "id": "e92d52891aef4ecd",
+      "source": "少数派",
+      "lang": "zh",
+      "weight": 3,
+      "title": "从零手搓 AI Agent，我学到了什么？",
+      "link": "https://sspai.com/post/110370",
+      "published": "2026-05-28T15:00:00+08:00",
+      "summary_raw": "AI 知识「干中学」——用两天时间梳理完 AI 发展脉络，理解 Agent 能力边界。<a href=\"https://sspai.com/post/110370\" target=\"_blank\">查看全文</a>",
+      "ai_summary": "少数派发布了一篇关于从零开始构建 AI Agent 的实践分享文章。作者通过耗时两天的“干中学”模式，系统梳理了当前 AI 技术的发展脉络，并深度探讨了 AI Agent 在实际应用中的能力边界与局限性。该文章从开发者的真实视角出发，客观评估了当前智能体在任务规划、外部工具调用等方面的表现，为希望了解或参与开发 AI Agent 的从业者提供了来自一线的实践经验。",
+      "ai_points": [
+        "发生了什么：开发者分享了从零开始搭建 AI Agent 的完整实践过程，并系统梳理了当前 AI 的发展脉络。",
+        "为什么重要：通过真实动手实践，客观验证了当前 AI Agent 在复杂任务规划、工具调用等实际场景中的能力边界。",
+        "对谁有影响：对正在探索 AI Agent 落地场景的产品经理、独立开发者及渴望了解大模型应用开发的技术初学者有指导意义。"
+      ],
+      "topic": "AI产品",
+      "importance": 2
+    },
+    {
+      "id": "f67c7081956cd9b9",
+      "source": "量子位",
+      "lang": "zh",
+      "weight": 3,
+      "title": "「斯隆奖」得主戴亮全职加盟复旦",
+      "link": "https://www.qbitai.com/2026/05/425959.html",
+      "published": "2026-05-28T12:44:46+08:00",
+      "summary_raw": "复旦的顶尖人才版图",
+      "ai_summary": "知名学术奖项“斯隆奖”得主戴亮已正式全职加盟复旦大学。戴亮此前在相关科研领域取得了卓越成就，其全职加入进一步丰富了复旦大学的顶尖人才版图。这一人事变动客观反映了国内顶尖高校在吸引国际高水平科研人才方面的持续投入与显著成效，有助于提升国内相关基础学科的科研实力、国际学术影响力以及顶尖人才的自主培养能力。",
+      "ai_points": [
+        "发生了什么：享有国际声誉的“斯隆奖”获得者、顶尖科研人才戴亮正式全职加入复旦大学开展科研与教学工作。",
+        "为什么重要：标志着国内顶尖高校在引进国际高层次学术人才方面取得新进展，有助于快速提升国内基础学科研究实力。",
+        "对谁有影响：主要影响高等教育界、相关基础学科的学术研究人员以及关注顶尖科研人才流动趋势的高校管理者。"
+      ],
+      "topic": "学术研究",
+      "importance": 2
+    },
+    {
+      "id": "0c85c016b5297fbe",
+      "source": "量子位",
+      "lang": "zh",
+      "weight": 3,
+      "title": "清华有了新老师：黄仁勋",
+      "link": "https://www.qbitai.com/2026/05/425948.html",
+      "published": "2026-05-28T12:39:41+08:00",
+      "summary_raw": "黄博好，黄博好。",
+      "ai_summary": "Nvidia 创始人兼 CEO 黄仁勋近期与清华大学产生新的学术联系，被业界称为“黄老师”及“黄博”。作为全球 AI 算力芯片领域的领军人物，黄仁勋在推动底层硬件发展方面贡献卓著。此次与国内顶尖高校的互动，不仅是对其个人在科技领域影响力的学术认可，也折射出全球产业界领军人物与国内顶尖学术机构之间日益紧密的产学研合作趋势。",
+      "ai_points": [
+        "发生了什么：Nvidia 创始人黄仁勋与清华大学建立新的学术互动联系，获得相关学术荣誉头衔或教职身份。",
+        "为什么重要：体现了全球顶级科技领袖与国内顶尖学术机构的互动加深，凸显了 AI 算力领域产学研深度结合的趋势。",
+        "对谁有影响：对关注 AI 算力芯片行业的从业者、清华大学师生以及致力于推动科技领域高校产学研合作的项目团队有一定影响。"
+      ],
+      "topic": "硬件",
+      "importance": 3
+    },
+    {
+      "id": "249adb615df52af4",
+      "source": "少数派",
+      "lang": "zh",
+      "weight": 3,
+      "title": "免费试读 | 零基础美术启蒙，该如何准备适合的美术器材",
+      "link": "https://sspai.com/post/108334",
+      "published": "2026-05-28T11:11:08+08:00",
+      "summary_raw": "按：本文是少数派共创栏目《写给家长的幼儿美术启蒙指南》的第三章，在栏目更新完成之际，免费开放给大家阅读，希望能给正在为挑选美术器材而犯难的你有所帮助。本栏目在专业的理论基础之上，结合作者多年育儿经验与 ...<a href=\"https://sspai.com/post/108334\" target=\"_blank\">查看全文</a><p>本文为付费栏目文章，出自<a href=\"https://sspai.com/series/389\" target=\"_blank\">《经验卷轴：写给家长的幼儿美术启蒙指南》</a>，订阅后可阅读全文。</p>",
+      "ai_summary": "少数派发布了《写给家长的幼儿美术启蒙指南》共创栏目的第三章内容，并开放给公众免费试读。该文章主要针对零基础的家长群体，结合专业的理论基础与作者实际的育儿经验，详细介绍了如何科学地为幼儿挑选适合的美术器材。这是一篇典型的面向大众消费者的教育类指南文章，旨在帮助家长解决在儿童美术启蒙阶段面临的工具选择及实操难题。",
+      "ai_points": [
+        "发生了什么：少数派开放了《幼儿美术启蒙指南》付费专栏的特定章节，供读者免费试读关于器材挑选的内容。",
+        "为什么重要：提供了一套结合教育理论与育儿实践的方法论，帮助零基础家长更科学地挑选儿童美术器材。",
+        "对谁有影响：主要对有幼儿美术启蒙需求的家长人群，以及关注内容付费平台内容运营策略的产品经理有一定参考作用。"
+      ],
+      "topic": "其他",
+      "importance": 1
+    },
+    {
+      "id": "f06a2626dc9abea1",
+      "source": "少数派",
+      "lang": "zh",
+      "weight": 3,
+      "title": "派早报：鸿蒙智行发布新一代问界 M9、蔚来正式推出 ES9 等",
+      "link": "https://sspai.com/post/110368",
+      "published": "2026-05-28T08:30:00+08:00",
+      "summary_raw": "英伟达宣布退役 GeForce 控制面板、《巫师 3：狂猎》将推出全新 DLC 等。<a href=\"https://sspai.com/post/110368\" target=\"_blank\">查看全文</a>",
+      "ai_summary": "科技与出行领域迎来多项产品更新。在智能汽车方面，鸿蒙智行正式发布了新一代问界 M9 车型，蔚来也正式推出了全新的 ES9，进一步加剧了高端新能源汽车市场的竞争。在科技硬件与游戏方面，Nvidia 宣布将退役历史悠久的 GeForce 控制面板，全面转向新的应用中心软件；同时，经典知名游戏《巫师 3：狂猎》宣布将推出全新的 DLC，为玩家带来新内容。",
+      "ai_points": [
+        "发生了什么：新一代问界 M9 与蔚来 ES9 汽车正式发布，Nvidia 退役 GeForce 控制面板，巫师3将推新 DLC。",
+        "为什么重要：标志着智能新能源汽车头部品牌产品线持续高速迭代，同时经典的 PC 显卡硬件管理工具迎来新老交替。",
+        "对谁有影响：对新能源汽车行业从业者、智能座舱产品经理、PC 硬件玩家及单机游戏受众群体有直接且具体的影响。"
+      ],
+      "topic": "硬件",
+      "importance": 3
+    },
+    {
+      "id": "41c7fdd1f3bf1bbd",
+      "source": "InfoQ 中文",
+      "lang": "zh",
+      "weight": 2,
+      "title": "Agent 能用，为什么还是不好用？",
+      "link": "https://www.infoq.cn/video/E0H31R7GiUmbixDKELEi?utm_source=rss&utm_medium=article",
+      "published": "2026-05-28T23:45:04+08:00",
+      "summary_raw": "<div align=\"right\"><a href=\"https://www.infoq.cn/video/E0H31R7GiUmbixDKELEi?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>",
+      "ai_summary": "InfoQ 发布了一项关于当前 AI Agent 发展现状的深度视频探讨，聚焦于“为什么智能体已经可用，但在实际体验中依然不够好用”的核心痛点。讨论指出，虽然大模型底层能力的提升使得 Agent 具备了基本的任务执行基础，但在工作流的稳定性、复杂场景下的错误纠正机制以及对用户交互意图的精准理解上，仍存在显著的工程化短板，导致其实际商业体验不佳。",
+      "ai_points": [
+        "发生了什么：业界围绕 AI Agent “可用但不好用”的现状展开深度探讨，剖析其在实际落地中遭遇的用户体验瓶颈。",
+        "为什么重要：犀利指出了大模型能力向实际产品转化过程中存在的工程化断层，明确了当前 Agent 技术商业化的真实局限性。",
+        "对谁有影响：对致力于 AI Agent 商业化落地的产品经理、研发工程师及相关领域的初创团队具有深刻的警醒与指导作用。"
+      ],
+      "topic": "AI产品",
+      "importance": 3
+    },
+    {
+      "id": "118a0904568d6ae9",
+      "source": "Ars Technica",
+      "lang": "en",
+      "weight": 2,
+      "title": "Steam Deck sells out in North America within 24 hours of price hike",
+      "link": "https://arstechnica.com/gaming/2026/05/despite-price-hike-steam-deck-is-already-sold-out-in-north-america/",
+      "published": "2026-05-28T23:43:41+08:00",
+      "summary_raw": "Europe, Australia, and Asia can still get it while the getting's good.",
+      "ai_summary": "Valve 旗下的游戏掌机 Steam Deck 在北美市场宣布涨价后，不仅没有遇冷，反而销量大增，在 24 小时内迅速售罄。目前该设备的供货短缺主要集中在北美地区，而欧洲、澳大利亚和亚洲市场的消费者暂时仍可以正常购买。此次涨价后的抢购热潮显示出该产品在核心玩家群体中的高粘性和市场需求。",
+      "ai_points": [
+        "Valve 宣布 Steam Deck 在北美涨价后，该产品在 24 小时内售罄。",
+        "这反映了涨价并未削弱核心玩家的需求，反向刺激了消费者的购买欲。",
+        "直接影响北美掌机消费者，欧亚澳等其他市场的消费者暂不受缺货影响。"
+      ],
+      "topic": "硬件",
+      "importance": 2
+    },
+    {
+      "id": "f2e6d393180e75cb",
+      "source": "InfoQ 中文",
+      "lang": "zh",
+      "weight": 2,
+      "title": "米哈游一夜烧掉200万元Token，大厂高管也开始质疑：Token烧不出价值，但养肥了谁？",
+      "link": "https://www.infoq.cn/article/LXegvvlZaOtPJEFJ9rEt?utm_source=rss&utm_medium=article",
+      "published": "2026-05-28T23:32:05+08:00",
+      "summary_raw": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/LXegvvlZaOtPJEFJ9rEt?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>",
+      "ai_summary": "米哈游在近期 AI 应用中一夜消耗了价值约 200 万元的 Token，引发了科技大厂高管对 AI 大模型商业模式的质疑。行业内开始反思单纯的算力与 Token 消耗是否能直接转化为实际的业务价值，以及这种高昂的成本结构究竟让谁获益。这反映出当前 AI 应用落地面临的成本控制与投资回报率的困境。",
+      "ai_points": [
+        "米哈游在 AI 业务中一夜消耗价值 200 万元的 Token，引发了行业广泛关注。",
+        "此事件暴露了当前大模型应用落地中，成本过高与商业价值难以匹配的痛点。",
+        "直接警醒正在探索商业化落地的互联网企业、AI 产品团队及算力供应商。"
+      ],
+      "topic": "AI产品",
+      "importance": 3
+    },
+    {
+      "id": "df118001fa623e69",
+      "source": "InfoQ 中文",
+      "lang": "zh",
+      "weight": 2,
+      "title": "全球首个完全AI编写的训练框架来了，速度反超英伟达：面壁要用 AI 把国产算力软件重写一遍",
+      "link": "https://www.infoq.cn/article/hXDXRKIGlowu0y6fWA96?utm_source=rss&utm_medium=article",
+      "published": "2026-05-28T23:27:30+08:00",
+      "summary_raw": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/hXDXRKIGlowu0y6fWA96?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>",
+      "ai_summary": "面壁智能推出了全球首个完全由 AI 编写的模型训练框架，其运行速度在特定测试中反超了英伟达（NVIDIA）的同类软件。面壁智能计划利用 AI 技术将国产算力相关的底层软件栈重新编写一遍。这一突破性进展展示了 AI 在代码生成和系统级开发中的潜力，为打破算力软件垄断提供了新的技术路径。",
+      "ai_points": [
+        "面壁智能发布全球首个完全由 AI 编写的训练框架，运行速度超越 NVIDIA。",
+        "证明了 AI 在重构底层算力软件栈的巨大潜力，有望加速国产算力的生态建设。",
+        "对 AI 基础设施开发者、国产芯片厂商及依赖底层框架的算法团队影响深远。"
+      ],
+      "topic": "开源工具",
+      "importance": 4
+    },
+    {
+      "id": "edca9c4eb92d3eca",
+      "source": "InfoQ 中文",
+      "lang": "zh",
+      "weight": 2,
+      "title": "深度对话：后龙虾时代，企业Agent从“能用”到“生产级”的差距在哪里？",
+      "link": "https://www.infoq.cn/video/6O9sEPBIVkVl1kXBay8W?utm_source=rss&utm_medium=article",
+      "published": "2026-05-28T23:08:42+08:00",
+      "summary_raw": "<div align=\"right\"><a href=\"https://www.infoq.cn/video/6O9sEPBIVkVl1kXBay8W?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>",
+      "ai_summary": "InfoQ 近期发布深度对话视频，聚焦“后龙虾时代”企业级 AI Agent 的发展痛点。讨论重点围绕 Agent 从简单的“能用”阶段向高可用“生产级”应用过渡时的差距。内容涵盖了模型幻觉控制、工程化落地、企业数据安全及业务集成等问题，旨在为行业提供可借鉴的 Agent 规模化部署经验与工程实践思路。",
+      "ai_points": [
+        "业内专家就企业级 AI Agent 如何从演示走向真实的生产环境展开了深度探讨。",
+        "揭示了工程化落地、可靠性保障与核心业务集成是 Agent 商业化的关键鸿沟。",
+        "为致力于推动大模型落地的企业 IT 架构师、产品经理及 AI 应用开发者提供指引。"
+      ],
+      "topic": "AI产品",
+      "importance": 3
+    },
+    {
+      "id": "fe05c3e6d842f865",
+      "source": "Wired",
+      "lang": "en",
+      "weight": 2,
+      "title": "Here Comes Ojai, Waymo’s New Chinese-Made Robotaxi",
+      "link": "https://www.wired.com/story/here-comes-ojai-waymos-new-chinese-made-robotaxi/",
+      "published": "2026-05-28T23:00:00+08:00",
+      "summary_raw": "The pale-blue Ojai vehicles will start picking up members of the public in California and Arizona in the next few weeks.",
+      "ai_summary": "自动驾驶公司 Waymo 即将在接下来的几周内，于加利福尼亚州和亚利桑那州推出名为 Ojai 的全新 Robotaxi 车队，并向公众开放。这款淡蓝色的车辆由中国汽车制造商极氪（Zeekr）代工生产，专门为无人驾驶出行场景设计。这一举措标志着 Waymo 在扩大无人驾驶商业化规模和硬件迭代上迈出了重要一步。",
+      "ai_points": [
+        "Waymo 即将在加州和亚利桑那州上线由中国极氪制造的新型无人车 Ojai。",
+        "标志着中美在自动驾驶硬件制造与软件运营上的深度合作，以及商业化营运的扩容。",
+        "直接影响两州的出行公众，同时对全球自动驾驶行业及新能源智能车企具有示范效应。"
+      ],
+      "topic": "硬件",
+      "importance": 3
+    },
+    {
+      "id": "65802b9397d38aea",
+      "source": "InfoQ 中文",
+      "lang": "zh",
+      "weight": 2,
+      "title": "腾讯云 DatabaseClaw：让 AI Agent 真正接管生产数据库 | 腾讯云数据库 DBTalk",
+      "link": "https://www.infoq.cn/video/RjWCjAxGrAfWYM1fD5uv?utm_source=rss&utm_medium=article",
+      "published": "2026-05-28T22:46:52+08:00",
+      "summary_raw": "<div align=\"right\"><a href=\"https://www.infoq.cn/video/RjWCjAxGrAfWYM1fD5uv?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>",
+      "ai_summary": "腾讯云数据库展示了最新技术方案 DatabaseClaw，旨在让 AI Agent 能够安全、高效地直接接管和操作生产级数据库。该方案通过大模型技术将自然语言指令转化为数据库操作，并内置了严格的安全审核与回滚机制，以解决 AI 在核心业务场景落地的可靠性问题，有效降低了传统数据库运维的技术门槛。",
+      "ai_points": [
+        "腾讯云推出 DatabaseClaw，探索 AI Agent 直接操作生产环境的数据库。",
+        "提供了 AI 接管底层基础设施的安全保障思路，推动 AIOps 技术的进一步演进。",
+        "极大影响数据库管理员、后端研发人员以及云服务生态系统的企业使用者。"
+      ],
+      "topic": "AI产品",
+      "importance": 3
+    },
+    {
+      "id": "a06410782e061ca0",
+      "source": "InfoQ 中文",
+      "lang": "zh",
+      "weight": 2,
+      "title": "Agentic Coding + ClickHouse: 1人1栈1应用，AI全栈几天搞定",
+      "link": "https://www.infoq.cn/article/UdQ0zzmK6TOwZlB1qDSo?utm_source=rss&utm_medium=article",
+      "published": "2026-05-28T22:41:52+08:00",
+      "summary_raw": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/UdQ0zzmK6TOwZlB1qDSo?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>",
+      "ai_summary": "业内最新实践文章展示了如何结合 Agentic Coding（代理化编程）与 ClickHouse 数据库进行高效应用开发。该方法论验证了单个开发者可以利用 AI 编程助手完成全栈开发，在数天内从零构建出完整的数据应用。这体现了 AI 驱动软件工程在提升个人效能上的潜力，预示着单兵作战的开发模式正成为可能。",
+      "ai_points": [
+        "开发者借助 AI 编程助手与 ClickHouse，在数天内独立完成全栈应用开发。",
+        "验证了 AI 在全栈开发和敏捷迭代中的实战价值，大幅降低了软件开发的技术门槛。",
+        "对独立开发者、初创团队以及传统软件外包行业的工作模式产生直接冲击。"
+      ],
+      "topic": "AI产品",
+      "importance": 2
+    },
+    {
+      "id": "8d0f16b523754ed4",
+      "source": "钛媒体",
+      "lang": "zh",
+      "weight": 2,
+      "title": "蛰伏三年谋变局：通策医疗或接棒和仁科技，控制权拉锯战迎终章？",
+      "link": "https://www.tmtpost.com/8006422.html",
+      "published": "2026-05-28T22:29:26+08:00",
+      "summary_raw": "新主会是通策医疗么？",
+      "ai_summary": "经过长达三年的股权转让与控制权博弈，通策医疗有望最终接替成为和仁科技的新实际控制人。在这场旷日持久的拉锯战中，双方经历了多次协议修改与监管问询，反映出当前医疗信息化行业在资本层面的复杂运作与整合难度。若此次交易顺利完成，将有助于通策医疗在数字化医疗领域的战略布局和未来的业务拓展。",
+      "ai_points": [
+        "历经三年的股权转让博弈，通策医疗有望最终取得和仁科技的实际控制权。",
+        "标志着医疗信息化赛道的重要资本并购即将落幕，行业资源面临着重新洗牌。",
+        "直接影响两家上市公司的股东、管理层及相关医疗数字化领域的竞争对手。"
+      ],
+      "topic": "其他",
+      "importance": 2
+    },
+    {
+      "id": "feab2f8d143ec4c0",
+      "source": "InfoQ 中文",
+      "lang": "zh",
+      "weight": 2,
+      "title": "昇腾管推理、鲲鹏管Agent，Agentic AI 让 CPU 重回舞台中央",
+      "link": "https://www.infoq.cn/article/cp3uKO2GTRsWsewJjYVt?utm_source=rss&utm_medium=article",
+      "published": "2026-05-28T22:25:47+08:00",
+      "summary_raw": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/cp3uKO2GTRsWsewJjYVt?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>",
+      "ai_summary": "随着 Agentic AI 的发展，底层计算架构正在发生深刻变化。传统的纯 GPU 路线不再是唯一解，华为昇腾主要负责底层大模型的推理工作，而鲲鹏 CPU 则更多地承担起 Agent 的逻辑控制与复杂调度任务。这种算力分工合作模式打破了以往过度依赖 GPU 的局面，使得 CPU 在多层逻辑判断中重新回到舞台中央。这为企业构建复杂智能体应用提供了兼顾性能与成本的新思路。",
+      "ai_points": [
+        "发生了什么：在 Agentic AI 趋势下，计算架构演变为昇腾主导推理、鲲鹏主导 Agent 调度的协同模式。",
+        "为什么重要：打破了 AI 计算单一依赖 GPU 的现状，凸显了 CPU 在复杂逻辑控制中的不可替代性。",
+        "对谁有影响：直接影响底层芯片开发者、AI 基础设施提供商以及构建企业级 Agent 应用的产研团队。"
+      ],
+      "topic": "硬件",
+      "importance": 4
+    },
+    {
+      "id": "0042a4538bb21bd7",
+      "source": "InfoQ 中文",
+      "lang": "zh",
+      "weight": 2,
+      "title": "腾讯云 DMC 重塑人机协同：让 Agent“用得顺”更“管得住” | 腾讯云数据库 DBTalk",
+      "link": "https://www.infoq.cn/video/brDB9ddjTMsKZd79o9Yc?utm_source=rss&utm_medium=article",
+      "published": "2026-05-28T22:14:53+08:00",
+      "summary_raw": "<div align=\"right\"><a href=\"https://www.infoq.cn/video/brDB9ddjTMsKZd79o9Yc?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>",
+      "ai_summary": "腾讯云在 DBTalk 论坛上展示了其 DMC 产品如何重塑人机协同模式，特别是在管理和使用 AI Agent 方面。该方案致力于解决当前企业在落地大模型智能体时面临的可用性与安全性痛点，不仅确保 Agent 能够顺畅地融入现有数据库管理工作流，还通过系统化权限手段实现对智能体行为的严格管控。这为企业在核心数据场景中引入自动化 AI 助手提供了兼顾效率与安全的可行路径。",
+      "ai_points": [
+        "发生了什么：腾讯云 DMC 推出针对 AI Agent 的人机协同管理方案，强调系统的顺畅使用与安全管控。",
+        "为什么重要：直击企业级应用中 AI 智能体行为可能失控的痛点，在提升自动化效率的同时保障了数据安全。",
+        "对谁有影响：对数据库管理员、企业 IT 决策者以及依赖云端 AI 助手提升业务效率的 B 端客户产生积极影响。"
+      ],
+      "topic": "AI产品",
+      "importance": 3
+    },
+    {
+      "id": "15d63d2c430a5bfc",
+      "source": "钛媒体",
+      "lang": "zh",
+      "weight": 2,
+      "title": "Snowflake绩后暴涨36%：AI拐点已至，还是数据云的又一次虚晃？",
+      "link": "https://www.tmtpost.com/8006462.html",
+      "published": "2026-05-28T22:09:32+08:00",
+      "summary_raw": "市场视之为AI基础设施从硬件转向软件的风向标，产品收入增速34%创史上最强增量，AWS五年60亿协议落地，RPO增长38%。",
+      "ai_summary": "数据云服务商 Snowflake 发布最新财报后股价暴涨 36%。数据显示其产品收入增速达 34%，创下历史最强增量，同时剩余履行义务（RPO）大幅增长 38%，并与 AWS 达成五年价值 60 亿美元的战略合作协议。市场普遍将此次业绩爆发视为关键风向标，标志着企业端的 AI 支出红利正在从底层算力硬件阶段，实质性地向数据处理与应用软件层转移。",
+      "ai_points": [
+        "发生了什么：Snowflake 财报超预期带动股价大涨 36%，产品收入强劲增长并与 AWS 签下 60 亿美元大单。",
+        "为什么重要：该业绩表现被市场视为 AI 基础设施支出重心从底层芯片向云端数据与软件服务转移的重要信号。",
+        "对谁有影响：提振了云计算及软件 SaaS 投资者的信心，同时为数据云产品经理和企业 IT 采购方提供趋势参考。"
+      ],
+      "topic": "互联网平台",
+      "importance": 4
+    },
+    {
+      "id": "d20c769b2c8d73f6",
+      "source": "Ars Technica",
+      "lang": "en",
+      "weight": 2,
+      "title": "Bad cholesterol slashed 62% by single dose of gene-editing drug in small trial",
+      "link": "https://arstechnica.com/health/2026/05/one-dose-of-gene-editing-drug-cut-bad-cholesterol-62-for-months-in-small-trial/",
+      "published": "2026-05-28T21:39:49+08:00",
+      "summary_raw": "The interim Phase I trial data was only from 35 people, but results look good so far.",
+      "ai_summary": "一项小规模的早期临床试验数据显示，单剂量的实验性基因编辑药物成功使受试者体内的“坏胆固醇”水平大幅降低了 62%。虽然目前公布的第一期临床试验中期数据仅来自 35 名参与者，样本量相对较小，但迄今为止的有效性结果表现十分积极。这项研究展示了基因编辑技术在治疗心血管及代谢类疾病方面的巨大潜力，有望为难以通过传统药物控制胆固醇的患者带来单次治愈方案。",
+      "ai_points": [
+        "发生了什么：初步第一期临床试验显示，一种单剂量基因编辑药物使 35 名受试者的坏胆固醇水平显著降低了 62%。",
+        "为什么重要：验证了基因编辑技术在慢性代谢疾病治疗上的初步有效性，为单次干预替代长期服药提供了科学可能。",
+        "对谁有影响：将影响生物科技领域的研发人员、医疗投资机构，以及未来患有严重高胆固醇疾病的潜在患者群。"
+      ],
+      "topic": "学术研究",
+      "importance": 3
+    },
+    {
+      "id": "51231a834f3d8a6f",
+      "source": "爱范儿",
+      "lang": "zh",
+      "weight": 2,
+      "title": "大公司的 AI 账本，没有一笔算得过来",
+      "link": "https://www.ifanr.com/1667312?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "published": "2026-05-28T21:09:14+08:00",
+      "summary_raw": "不用吧，怕被淘汰；用吧，账算不过来<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+      "ai_summary": "当前科技巨头在推进人工智能业务时普遍面临“算不过账”的商业化困境。一方面，出于对错失技术代际交替的恐惧，企业必须不计成本地投入巨额资金购买算力与训练模型；另一方面，高昂的运营成本和尚未成熟的商业模式，导致 AI 产品的实际变现能力难以覆盖其开支。这种“不用怕被淘汰，用了又面临亏损”的现状，揭示了当前 AI 行业在基础设施投资狂热与实际应用收益之间的严重脱节现象。",
+      "ai_points": [
+        "发生了什么：科技大厂在 AI 领域的投入与产出严重失衡，面临着高昂成本难以通过现有商业模式收回的现实困境。",
+        "为什么重要：揭示了 AI 行业当前面临的巨大商业化鸿沟，可能导致未来资本投入降温或促使行业进入新一轮洗牌。",
+        "对谁有影响：直接影响大厂的 AI 战略决策者、商业化产品经理、科技领域投资者以及依赖 AI 基础设施的上下游。"
+      ],
+      "topic": "其他",
+      "importance": 4
+    },
+    {
+      "id": "2c1e24fad2b3c757",
+      "source": "Wired",
+      "lang": "en",
+      "weight": 2,
+      "title": "Oura’s New Ring 5 Is Smaller and Lighter—and Adds an AI Health Coach",
+      "link": "https://www.wired.com/story/oura-ring-5/",
+      "published": "2026-05-28T20:00:00+08:00",
+      "summary_raw": "It’s slimmer, lighter, and more durable. But the real upgrade is Oura’s push into AI-powered health insights and proactive monitoring.",
+      "ai_summary": "智能穿戴品牌 Oura 正式发布了全新一代 Oura Ring 5 智能戒指。在硬件设计上，新款戒指采用了更纤薄、更轻巧且更耐用的物理结构。而在软件服务层面，本次最核心的升级在于引入了由人工智能驱动的 AI Health Coach 功能。该系统能够提供深度的健康数据洞察以及主动式的前瞻性健康监测，这标志着该产品正从单纯的被动数据追踪工具向个性化、智能化的主动健康管理平台转型。",
+      "ai_points": [
+        "发生了什么：Oura 发布了更轻薄耐用的 Ring 5 智能戒指，并首次在配套应用中引入了 AI 驱动的健康教练功能。",
+        "为什么重要：展示了可穿戴设备正在从被动的数据记录仪，向能够提供主动式、个性化健康建议的 AI 智能平台演进。",
+        "对谁有影响：对智能穿戴硬件厂商、关注个人健康数据的消费者，以及大健康管理领域的产品经理具有重要参考价值。"
+      ],
+      "topic": "硬件",
+      "importance": 3
+    },
+    {
+      "id": "1f963d534d766adb",
+      "source": "钛媒体",
+      "lang": "zh",
+      "weight": 2,
+      "title": "江苏索普拟定增16亿元延链：技术全来自国外，一项目已拖4年",
+      "link": "https://www.tmtpost.com/8006293.html",
+      "published": "2026-05-28T19:18:27+08:00",
+      "summary_raw": "未来应用市场或面临收缩。",
+      "ai_summary": "化工企业江苏索普计划通过定向增发募集 16 亿元人民币，用于产业链延伸相关项目。然而，该扩产计划目前面临多重技术与市场风险。据披露，其核心技术完全依赖国外引进，且其中一个重点项目已经停滞拖延了长达四年之久。此外，随着宏观经济波动与行业周期的变化，目标产品未来的下游应用市场预计将面临收缩压力。这一事件凸显了传统制造业在试图通过依赖外部技术进行产业升级时遭遇的典型困境。",
+      "ai_points": [
+        "发生了什么：江苏索普拟定增 16 亿元用于产业链延伸，但面临核心技术完全依赖国外且项目已长期拖延四年的现状。",
+        "为什么重要：反映了传统重资产行业在谋求产业升级过程中，因缺乏核心自主研发能力而面临的高资金风险与市场风险。",
+        "对谁有影响：对关注该公司基本面的二级市场投资者、传统制造业转型决策者及相关产业链上下游企业产生警示作用。"
+      ],
+      "topic": "创业融资",
+      "importance": 2
+    },
+    {
+      "id": "d9f5ce77a24e945b",
+      "source": "钛媒体",
+      "lang": "zh",
+      "weight": 2,
+      "title": "十年拉锯，五折清仓：跨国巨头割肉离场，*ST西发“赌命”接盘",
+      "link": "https://www.tmtpost.com/8006288.html",
+      "published": "2026-05-28T19:15:08+08:00",
+      "summary_raw": "嘉士伯“跪着”也要跑，ST西发“跪着”也要买",
+      "ai_summary": "在经历长达十年的商业纠纷与拉锯战后，跨国啤酒巨头嘉士伯最终选择以半价折扣“割肉”清仓，退出此前的相关合资项目。与此同时，正处于退市边缘的 A 股公司 *ST西发（西藏发展）则选择“赌命”式接盘该资产，试图以此作为保壳与业务重组的最后救命稻草。这笔交易不仅宣告了外资巨头在特定区域市场战略的彻底收缩，也折射出困境上市公司在面临生存危机时所采取的高风险资本运作策略。",
+      "ai_points": [
+        "发生了什么：嘉士伯在历经十年纠纷后以五折价格清仓退出合资资产，而濒临退市的 *ST西发选择高风险接盘该业务。",
+        "为什么重要：标志着跨国巨头在区域市场的重大战略撤退，同时体现了边缘上市公司为求保壳而进行的极端资本运作。",
+        "对谁有影响：影响快消品及啤酒行业的区域市场竞争格局，并对二级市场散户投资者及不良资产重组从业者具有警示意义。"
+      ],
+      "topic": "其他",
+      "importance": 2
+    },
+    {
+      "id": "04981a786e286bcf",
+      "source": "Wired",
+      "lang": "en",
+      "weight": 2,
+      "title": "Cotopaxi Allpa 35L Travel Pack Del Día Dark: Sustainable and Chic",
+      "link": "https://www.wired.com/story/bag-check-rave-cotopaxi-allpa-35l-travel-pack-del-dia-dark/",
+      "published": "2026-05-28T19:01:00+08:00",
+      "summary_raw": "Created from fabric scraps that would otherwise end up in a landfill, this thoughtfully constructed bag looks great and can carry everything you need for a weeklong trip.",
+      "ai_summary": "Cotopaxi 发布了新款 Allpa 35L Travel Pack Del Día Dark 旅行背包。这款背包主要由原本会被送往垃圾填埋场的废弃面料边角料制作而成，具有环保和可持续发展的特性。产品不仅在外观设计上保持了时尚感，其经过精心设计的内部结构和 35L 的容量也足以满足用户进行为期一周旅行的所有收纳需求。这体现了消费硬件领域对环保材料的应用趋势。",
+      "ai_points": [
+        "Cotopaxi 推出由废弃面料制作的环保旅行背包 Allpa 35L。",
+        "证明了环保可持续理念能在消费品设计和实用性中实现良好平衡。",
+        "对关注可持续生活方式和户外出行的消费者及相关产品设计者有参考价值。"
+      ],
+      "topic": "其他",
+      "importance": 1
+    },
+    {
+      "id": "818a152ba1cb93d4",
+      "source": "Wired",
+      "lang": "en",
+      "weight": 2,
+      "title": "New Moms Are Returning to Coding Jobs Radically Reshaped by AI",
+      "link": "https://www.wired.com/story/women-parental-leave-return-office-ai/",
+      "published": "2026-05-28T19:00:00+08:00",
+      "summary_raw": "New mothers working in software development are staring down an AI-pilled workplace they barely recognize.",
+      "ai_summary": "随着 AI 编码助手的普及，软件开发行业的工作模式发生了根本性转变。结束产假重返职场的女性程序员发现，她们面对的是一个被 AI 深度重塑的工作环境。AI 工具极大提升了代码编写速度，但也改变了传统的开发流程和技能要求。这种快速的技术迭代对休假数月后重返岗位的开发者构成了显著的适应挑战，反映出 AI 时代职业技能的加速折旧以及职场对持续学习能力的更高要求。",
+      "ai_points": [
+        "产后重返职场的女性程序员面临被 AI 深度重塑的软件开发环境。",
+        "凸显了 AI 编程工具快速普及带来的工作流重构和职业技能折旧问题。",
+        "对研发团队管理者、HR 部门及因故长时间脱离一线的开发者有重要警示。"
+      ],
+      "topic": "AI产品",
+      "importance": 3
+    },
+    {
+      "id": "bea2837f59a4f862",
+      "source": "钛媒体",
+      "lang": "zh",
+      "weight": 2,
+      "title": "直击2026年世界智能产业博览会：王兴兴刘庆峰杨元庆共启AI实干时代",
+      "link": "https://www.tmtpost.com/8006251.html",
+      "published": "2026-05-28T18:56:20+08:00",
+      "summary_raw": "无论是AI，还是具身智能，内核都是能干活，干好活。",
+      "ai_summary": "2026年世界智能产业博览会近期召开，王兴兴、刘庆峰、杨元庆等科技企业领军人物共同探讨了 AI 行业的发展趋势。会议核心议题聚焦于 AI 及具身智能技术的落地应用，强调从概念炒作向实际价值创造转变，即“能干活、干好活”。这标志着行业共识已全面转向 AI 技术的商业化落地、场景深度融合以及生产力层面的实际转化效能。",
+      "ai_points": [
+        "多位科技领军人物在世界智能产业博览会上共同探讨 AI 落地应用。",
+        "标志着 AI 与具身智能的发展重心正式从技术验证转向实际生产力落地。",
+        "对 AI 领域的创业者、投资人及负责商业化落地的产品经理具有指导意义。"
+      ],
+      "topic": "AI产品",
+      "importance": 3
+    },
+    {
+      "id": "645de15e2c925b20",
+      "source": "钛媒体",
+      "lang": "zh",
+      "weight": 2,
+      "title": "科学家们“造”了个新宇宙，却意外暴露了AI时代真正的瓶颈",
+      "link": "https://www.tmtpost.com/8005718.html",
+      "published": "2026-05-28T18:46:48+08:00",
+      "summary_raw": "“千衍”项目的诞生，本身就是为了破解一场关乎人类认知宇宙的“算力与存力双重难题”。",
+      "ai_summary": "科学家在模拟宇宙演化的“千衍”项目中，揭示了当前 AI 时代面临的核心基础设施瓶颈。该项目需要处理海量数据以模拟宇宙规律，在实际运行中暴露出当前技术环境下的“算力与存力双重难题”。这表明，随着 AI 模型和科学计算复杂度的指数级增长，现有的计算架构和数据存储能力已成为制约技术突破的关键短板，亟需底层硬件和分布式系统的创新。",
+      "ai_points": [
+        "“千衍”宇宙模拟项目暴露出当前 AI 时代面临的算力与存储双重瓶颈。",
+        "证明了前沿科学计算和大规模 AI 模型的发展正受制于底层基础设施限制。",
+        "深度影响云服务商、AI 芯片研发者及从事高性能计算的硬件基础设施团队。"
+      ],
+      "topic": "学术研究",
+      "importance": 3
+    },
+    {
+      "id": "e3696817d669644c",
+      "source": "Wired",
+      "lang": "en",
+      "weight": 2,
+      "title": "Canon EOS R6 Mark III Review: A Serious Upgrade",
+      "link": "https://www.wired.com/review/canon-eos-r6-mark-iii-camera/",
+      "published": "2026-05-28T18:33:00+08:00",
+      "summary_raw": "With sharper resolution and lightning-fast performance, Canon’s latest full-frame mirrorless punches well above its class.",
+      "ai_summary": "Canon 发布了全画幅微单相机 EOS R6 Mark III。测评显示，该设备在分辨率和运行速度上均有显著提升，展现出超越其产品定位的强劲性能。作为一次重大的产品迭代，它在对焦速度、画质表现和整体响应上为摄影师提供了更高效率的拍摄体验。此次更新巩固了 Canon 在中高端微单市场的竞争力，并推动了消费级影像设备的性能标准。",
+      "ai_points": [
+        "Canon 正式推出 EOS R6 Mark III，在分辨率和运行性能上实现大升级。",
+        "标志着中高端全画幅微单相机市场的核心性能和影像标准被进一步拉高。",
+        "直接影响影像设备消费者、专业摄影师以及主流相机竞品的后续市场策略。"
+      ],
+      "topic": "硬件",
+      "importance": 2
+    },
+    {
+      "id": "e49441d7488d78e8",
+      "source": "Wired",
+      "lang": "en",
+      "weight": 2,
+      "title": "These Ebola Researchers Are Stuck in US Due to Trump’s Funding Cuts",
+      "link": "https://www.wired.com/story/us-researchers-ebola-trump-cut-their-funding/",
+      "published": "2026-05-28T18:30:00+08:00",
+      "summary_raw": "The Centers for Research in Emerging Infectious Diseases were launched during the Covid-19 pandemic. The group lost its funding under Trump in part due to conspiracy theories.",
+      "ai_summary": "成立于 Covid-19 疫情期间的新发传染病研究中心近期因美国政府的资金削减计划而失去资助，导致多名埃博拉病毒研究人员滞留美国。报道指出，特朗普政府切断该资金的决策部分受到了阴谋论的影响。这一事件不仅直接阻断了正在进行的重要传染病跨国研究项目，也引发了科学界对于政治因素干预公共卫生科研资金分配的广泛担忧。",
+      "ai_points": [
+        "美国政府因政治及阴谋论因素削减了新发传染病研究中心的关键科研资金。",
+        "暴露了政治决策对全球公共卫生和跨国基础科学研究产生的直接破坏性影响。",
+        "严重影响相关领域的科研人员，并引起全球公共卫生政策制定者的集体警惕。"
+      ],
+      "topic": "政策监管",
+      "importance": 2
+    },
+    {
+      "id": "b8344ef4613d1c73",
+      "source": "Wired",
+      "lang": "en",
+      "weight": 2,
+      "title": "Amazon Thinks the Future of Data Centers Depends on a Technical Problem It Just Solved",
+      "link": "https://www.wired.com/story/amazon-thinks-the-future-of-data-centers-depends-on-a-technical-problem-it-just-solved/",
+      "published": "2026-05-28T18:30:00+08:00",
+      "summary_raw": "The tech giant says a breakthrough in data center networking has dramatically accelerated the flow of information through its massive cloud infrastructure.",
+      "ai_summary": "Amazon 宣布在数据中心网络技术上取得重大突破，成功解决了一项关键的底层网络传输问题。该技术极大加速了其庞大云基础设施内部的数据流动效率。随着 AI 训练和推理对数据吞吐量的需求呈指数级增长，这种数据中心内部网络架构的优化将显著降低延迟并提升算力集群的整体效能。此举有望进一步巩固 AWS 在云计算市场的领先地位。",
+      "ai_points": [
+        "Amazon 宣布解决数据中心网络传输技术瓶颈，大幅提升内部数据流动速度。",
+        "该突破能有效应对 AI 时代算力集群对极高数据吞吐量和极低延迟的核心需求。",
+        "将深刻影响云服务行业的竞争格局，直接利好 AWS 的企业客户和 AI 开发者。"
+      ],
+      "topic": "互联网平台",
+      "importance": 4
+    },
+    {
+      "id": "cdd5cbf60b603fd1",
+      "source": "钛媒体",
+      "lang": "zh",
+      "weight": 2,
+      "title": "砸下105亿，宁德时代想把AI数据中心的利润也吃干抹净",
+      "link": "https://www.tmtpost.com/8004933.html",
+      "published": "2026-05-28T18:23:51+08:00",
+      "summary_raw": "宁王的新赌局。",
+      "ai_summary": "宁德时代斥资 105 亿元入局 AI 数据中心业务，试图在新能源电池主业之外拓展全新的盈利增长点。随着 AI 大模型的发展，数据中心的能耗问题日益凸显，储能和能源管理成为关键环节。宁德时代此次跨界投资，旨在利用其在电池储能领域的深厚技术积累，切入高耗能的 AI 算力基础设施产业链，提供一揽子的能源解决方案，进而获取 AI 基础设施环节的市场利润。",
+      "ai_points": [
+        "宁德时代投资 105 亿元跨界布局 AI 数据中心业务，寻找第二条增长曲线。",
+        "深刻反映了 AI 算力激增带来的巨大能源缺口及储能管理在数据中心的重要性。",
+        "对 AI 算力基础设施提供商、能源管理企业及科技行业投资人具有重大的影响。"
+      ],
+      "topic": "硬件",
+      "importance": 4
+    },
+    {
+      "id": "6fc0d12283845ee9",
+      "source": "钛媒体",
+      "lang": "zh",
+      "weight": 2,
+      "title": "宇树还没上市，王兴兴的宁波老乡已经赢麻了",
+      "link": "https://www.tmtpost.com/8004470.html",
+      "published": "2026-05-28T18:23:27+08:00",
+      "summary_raw": "减速器大佬成最牛“卖铲人”。",
+      "ai_summary": "随着人形机器人公司宇树科技的快速发展，其背后的供应链企业也迎来了显著增长。据报道，来自宁波的减速器供应商作为产业链上的关键“卖铲人”，在宇树尚未完成上市之际便已获得丰厚的市场回报。这一现象客观反映出国内机器人产业链中核心零部件制造企业的商业潜力，也显示了机器人硬件市场的整体升温和上下游生态的日益成熟。",
+      "ai_points": [
+        "发生了什么：宁波的减速器供应商随宇树科技的机器人业务增长而获得丰厚商业回报。",
+        "为什么重要：凸显了人形机器人产业链中上游核心零部件（减速器）厂商的重要商业价值。",
+        "对谁有影响：对关注机器人硬件赛道及智能制造供应链的投资者和产品经理有参考意义。"
+      ],
+      "topic": "硬件",
+      "importance": 3
+    },
+    {
+      "id": "0dcc119509efe6a4",
+      "source": "Ars Technica",
+      "lang": "en",
+      "weight": 2,
+      "title": "Forecasters predict below-average hurricane season, advise against complacency",
+      "link": "https://arstechnica.com/science/2026/05/forecasters-predict-below-average-hurricane-season-advise-against-complacency/",
+      "published": "2026-05-28T18:00:01+08:00",
+      "summary_raw": "Forecasters say expected El Niño should temper hurricanes in Atlantic, urge preparedness.",
+      "ai_summary": "气象预测机构发布最新报告显示，受厄尔尼诺（El Niño）现象的影响，预计大西洋地区的飓风季节活跃度将低于历史平均水平。尽管预测数据显示风暴数量会有所减少，但气象专家依然强烈建议公众和相关部门不要掉以轻心，应继续做好充分的防灾准备工作，以应对可能出现的极端天气事件、局部强降雨以及突发性自然灾害。",
+      "ai_points": [
+        "发生了什么：气象学家预测受 El Niño 现象影响，大西洋飓风季节活跃度将低于历史平均水平。",
+        "为什么重要：提前预报自然灾害趋势有助于合理调配社会资源和优化应急响应防灾机制。",
+        "对谁有影响：主要影响大西洋沿岸地区的居民、防灾减灾部门以及相关保险和供应链行业。"
+      ],
+      "topic": "其他",
+      "importance": 1
+    },
+    {
+      "id": "46d61f271076cc4f",
+      "source": "Wired",
+      "lang": "en",
+      "weight": 2,
+      "title": "Scammers Are Using Your Real Hotel Reservations to Trick You With Spear-Phishing Attacks",
+      "link": "https://www.wired.com/story/hundreds-of-hotels-caught-up-in-vacation-booking-scams/",
+      "published": "2026-05-28T18:00:00+08:00",
+      "summary_raw": "Customer data from more than 350 hotels around the world may have been accessed as part of realistic reservation-hijacking scams.",
+      "ai_summary": "全球超过 350 家酒店的客户预订数据遭到未授权访问，诈骗分子正利用这些真实的预订信息发起高度定制化的鱼叉式网络钓鱼攻击。通过向客户发送包含准确入住时间、地点等隐私细节的欺诈邮件，攻击者极大地提高了骗局的逼真程度和成功率。这一事件暴露了全球酒店行业在客户数据防护系统中的漏洞，引发了安全业界的广泛关注。",
+      "ai_points": [
+        "发生了什么：超350家酒店客户数据泄露，黑客利用真实订单信息发起高仿真鱼叉式钓鱼攻击。",
+        "为什么重要：利用真实数据的定向诈骗大幅提升了攻击成功率，凸显企业数据泄露的衍生风险。",
+        "对谁有影响：影响全球酒店预订系统的用户，以及负责网络安全、数据隐私合规的产品经理。"
+      ],
+      "topic": "互联网平台",
+      "importance": 3
+    },
+    {
+      "id": "057cdd762a589943",
+      "source": "爱范儿",
+      "lang": "zh",
+      "weight": 2,
+      "title": "讯飞首款 AI 眼镜，用 40 克撬动 AI 工作流",
+      "link": "https://www.ifanr.com/1667281?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "published": "2026-05-28T17:27:55+08:00",
+      "summary_raw": "AI 眼镜的下半场，拼的是什么<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+      "ai_summary": "科大讯飞正式发布其首款 AI 眼镜产品，设备整机重量仅为 40 克。该产品主要聚焦于提升办公与生活场景中的 AI 工作流效率，标志着科大讯飞正式入局智能穿戴设备市场。通过轻量化硬件设计与内置的语音交互大模型相结合，讯飞试图在 AI 眼镜竞争的下半场中，以软件与生态作为核心突破口，为用户提供更为便捷的移动端 AI 助手体验。",
+      "ai_points": [
+        "发生了什么：科大讯飞推出首款重量仅为40克的 AI 眼镜，主打提升日常办公与 AI 工作流体验。",
+        "为什么重要：标志国内头部 AI 厂商将大模型能力向轻量化可穿戴设备延伸，探索新交互入口。",
+        "对谁有影响：对关注智能硬件、可穿戴设备以及 AI 应用场景落地的产品经理和行业从业者有影响。"
+      ],
+      "topic": "AI产品",
+      "importance": 3
+    },
+    {
+      "id": "de335c74d5c1c21f",
+      "source": "爱范儿",
+      "lang": "zh",
+      "weight": 2,
+      "title": "对话云鲸创始人张峻彬：2 年之后，扫地机器人就有「手」干更多活了",
+      "link": "https://www.ifanr.com/1667261?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "published": "2026-05-28T15:14:14+08:00",
+      "summary_raw": "一个创业者，在沉默的时候思考什么？<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+      "ai_summary": "云鲸智能（Narwal）创始人张峻彬在近期接受采访时透露了对家用清洁机器人未来发展的预测。他表示，预计在两年之后，扫地机器人将配备类似“手”的机械臂结构，从而能够完成更多样化、更复杂的家庭服务任务。这一观点反映了行业正从单一的底盘移动清洁，向具备更高操作维度的具身智能方向演进，预示着家用机器人的技术迭代路线。",
+      "ai_points": [
+        "发生了什么：云鲸创始人张峻彬预测，两年内扫地机器人将演化出机械臂结构以执行更多复杂任务。",
+        "为什么重要：指出了家用清洁机器人向具身智能和多功能家庭服务机器人升级的技术演进路径。",
+        "对谁有影响：对智能家居赛道的硬件产品经理、研发人员及相关核心零部件供应商具前瞻参考价值。"
+      ],
+      "topic": "硬件",
+      "importance": 2
+    },
+    {
+      "id": "19cf3ec3026f5f95",
+      "source": "爱范儿",
+      "lang": "zh",
+      "weight": 2,
+      "title": "极狐问道 V9 发布，卓驭从 SUV、轿车到 MPV 完成全品类舱驾一体量产验证",
+      "link": "https://www.ifanr.com/1667242?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "published": "2026-05-28T14:18:57+08:00",
+      "summary_raw": "主打一个便宜大碗。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+      "ai_summary": "随着极狐相关新车型的发布，独立智驾品牌卓驭科技（原大疆车载）正式完成了在 SUV、轿车以及 MPV 全品类车型上的“舱驾一体”方案量产验证。该方案主打高性价比，通过集中式电子电气架构同时支持智能座舱和高级辅助驾驶功能。这一进展不仅证明了卓驭在智能驾驶领域的技术成熟度，也标志着高阶智驾系统正加速向更多大众消费级车型渗透。",
+      "ai_points": [
+        "发生了什么：卓驭科技的高性价比“舱驾一体”智驾方案正式完成在多品类乘用车上的量产验证。",
+        "为什么重要：验证了集中式电子电气架构在降低成本与提升体验上的可行性，推动高阶智驾普及。",
+        "对谁有影响：直接影响智能网联汽车供应链、自动驾驶方案提供商以及新能源汽车的产品规划人员。"
+      ],
+      "topic": "硬件",
+      "importance": 3
+    },
+    {
+      "id": "9cd93f58343c6685",
+      "source": "爱范儿",
+      "lang": "zh",
+      "weight": 2,
+      "title": "国产AI编程冲上全球第二！实测五大模型，谁才是Vibe Coding神器",
+      "link": "https://www.ifanr.com/1667180?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "published": "2026-05-28T12:02:13+08:00",
+      "summary_raw": "国产模型哪家强，中国杭州看……<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+      "ai_summary": "近期技术评测显示，某国产大模型在 AI 编程领域的综合性能跃居全球第二，展现出强劲的代码生成与逻辑推理能力。科技媒体针对五款主流 AI 模型进行了实测，评估它们在“Vibe Coding”（即通过自然语言和意图驱动完成编程）场景下的实际表现。测试结果表明，国产模型在理解复杂业务逻辑和代码优化方面已具备与国际顶尖模型抗衡的实力。",
+      "ai_points": [
+        "发生了什么：最新评测指出某国产 AI 模型在代码生成领域升至全球第二，实测表现优异。",
+        "为什么重要：体现了国产大模型在垂直专业领域（如编程）的突破，大幅降低了开发门槛与成本。",
+        "对谁有影响：对软件研发工程师、效能提升团队以及关注 AI 辅助开发工具的产品经理有直接影响。"
+      ],
+      "topic": "AI模型",
+      "importance": 4
+    },
+    {
+      "id": "5eeeee0541ae219b",
+      "source": "爱范儿",
+      "lang": "zh",
+      "weight": 2,
+      "title": "早报｜余承东发布新问界M9：地球最强SUV /海力士市值突破1万亿美元/小红书拿下世界杯独家转播",
+      "link": "https://www.ifanr.com/1667176?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "published": "2026-05-28T08:38:20+08:00",
+      "summary_raw": "· 伯克利法学院收紧学生使用 AI 规则\n· 快手一季度收入 337 亿元，可灵 AI 同比增长超 300%\n· 保时捷拟把年产能压至约 20 万辆<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+      "ai_summary": "近期科技与商业领域发生多起重要事件：余承东宣布推出新款问界 M9；SK海力士市值实现历史性突破；小红书成功获取世界杯独家转播权，拓展体育内容生态。此外，快手发布第一季度财报，营收达 337 亿元，旗下可灵 AI 业务实现超 300% 的同比高速增长；伯克利法学院出台新规限制学生使用 AI 工具；保时捷则计划将年产能削减至约 20 万辆。",
+      "ai_points": [
+        "发生了什么：问界M9发布、快手可灵AI营收暴增、小红书获世界杯转播权等商业动态集中公布。",
+        "为什么重要：涵盖智能汽车新品、短视频平台 AI 商业化落地及内容版权争夺等多个关键行业风向。",
+        "对谁有影响：对关注造车新势力、互联网平台内容战略及大模型商业化趋势的产品经理有重要参考。"
+      ],
+      "topic": "互联网平台",
+      "importance": 3
+    },
+    {
+      "id": "aaa98b8e313e0e9e",
+      "source": "Ars Technica",
+      "lang": "en",
+      "weight": 2,
+      "title": "California defeats Tesla's attempt to throw out racial discrimination lawsuit",
+      "link": "https://arstechnica.com/tech-policy/2026/05/california-defeats-teslas-attempt-to-throw-out-racial-discrimination-lawsuit/",
+      "published": "2026-05-28T05:08:51+08:00",
+      "summary_raw": "California civil rights agency hails win over Tesla, anticipates trial in July.",
+      "ai_summary": "加州民权机构在针对 Tesla 的种族歧视诉讼中取得阶段性胜利，法院正式驳回了 Tesla 试图撤销该项诉讼的法律请求。此案主要涉及 Tesla 加州工厂内涉嫌针对少数族裔员工的不当行为与系统性歧视指控。随着法院做出这一裁决，案件的审理程序将继续向前推进，双方预计将于今年七月份正式进入庭审阶段。该事件不仅涉及劳工权益保护，也考验着大型科技企业的合规管理能力。",
+      "ai_points": [
+        "法院驳回 Tesla 撤销种族歧视诉讼的请求，案件预计七月开庭审理。",
+        "标志着针对科技巨头的大型劳工权益纠纷进入实质性司法审判阶段。",
+        "直接影响 Tesla 企业声誉与财务状况，同时警示其他科技与制造企业。"
+      ],
+      "topic": "政策监管",
+      "importance": 2
+    },
+    {
+      "id": "329c0acaeb85c396",
+      "source": "Ars Technica",
+      "lang": "en",
+      "weight": 2,
+      "title": "Websites have a new way to spy on visitors: Analyzing their SSD activity",
+      "link": "https://arstechnica.com/security/2026/05/websites-have-a-new-way-to-spy-on-visitors-analyzing-their-ssd-activity/",
+      "published": "2026-05-28T04:56:03+08:00",
+      "summary_raw": "Telltale SSD activity can be measured in the browser using simple JavaScript.",
+      "ai_summary": "安全研究人员发现了一种新型网络隐私追踪方法，网站可通过分析访问者固态硬盘的活动来监视用户。这种技术无需获取高级系统权限，仅依靠在用户浏览器中运行简单的 JavaScript 代码，就能测量并推断出设备底层的 SSD 读写特征。这种侧信道攻击方式暴露了现代浏览器在硬件隔离层面的潜在漏洞，为网站追踪用户行为提供了新途径，引发业内对浏览器安全的重新审视。",
+      "ai_points": [
+        "发现网站能通过浏览器运行 JavaScript 代码，偷偷测量并分析用户 SSD 活动。",
+        "揭示新型侧信道隐私追踪手段，打破了现代浏览器对底层硬件的安全隔离边界。",
+        "影响所有使用现代浏览器的网民，并迫使各浏览器厂商重新评估并修补安全机制。"
+      ],
+      "topic": "其他",
+      "importance": 3
+    }
+  ],
+  "script": "你好，欢迎收听科技早知道。今天是二零二六年五月二十八日。让我们来看看今天科技圈都有哪些值得关注的动态。\n\n首先来看人工智能领域。大模型的商业化落地正面临成本与实效的双重考验。米哈游近期在 AI 应用中一夜烧掉价值约两百万元的 Token。这引发了行业对算力消耗能否转化为实际业务价值的强烈质疑。科技巨头们普遍陷入了不用怕被淘汰，用了又面临亏损的商业化困境。大家开始反思，单纯的算力狂欢究竟养肥了谁。\n\n另一方面，企业级 AI Agent 正在跨越从能用到好用的鸿沟。腾讯云最新发布了多款数据库智能体产品。这些 Agent 能够安全接管生产级数据库，将自然语言转化为操作指令。这解决了 AI 在核心业务落地的可靠性问题。业内讨论指出，控制模型幻觉和确保工作流稳定性，是目前智能体走向生产级的关键差距。\n\n而在代码生成端，AI 正在实质性地重构软件开发流程。一名八岁儿童已经开始借助 AI 辅助开发操作系统。同时，不懂代码的一人公司也能通过 AI 工具拿下千万级订单。最新实测显示，某国产大模型在意图驱动编程场景下的综合性能已跃居全球第二。单兵作战的全栈开发模式正在成为现实。\n\n说完了 AI 软件端，我们再把目光转向底层的算力与硬件基础设施。\n\n随着智能体应用的发展，底层计算架构正在发生深刻变化。华为提出了昇腾负责推理，鲲鹏负责智能体调度的算力分工模式。这打破了以往过度依赖 GPU 的局面，让 CPU 在复杂逻辑控制中重新回到舞台中央。\n\n国产算力生态的飞轮也在加速运转。面壁智能推出了全球首个完全由 AI 编写的模型训练框架。该框架在特定测试中的运行速度甚至反超了 NVIDIA 的同类软件。同时，DeepSeek V4 采用了芯模协同技术，大幅提升了国产芯片支撑大规模训练的可用性。\n\n巨头们也在重金押注算力基础设施。宁德时代斥资一百零五亿元入局 AI 数据中心业务。他们希望利用在电池储能领域的深厚积累，切入高耗能的算力产业链，提供一揽子能源解决方案。而亚马逊也宣布在数据中心网络技术上取得重大突破。这极大加速了其云基础设施内部的数据流动效率，缓解了 AI 训练面临的网络吞吐量瓶颈。\n\n在硬件与算力打好基础的同时，消费级终端和机器人赛道也迎来了新的爆发。\n\n具身智能正在加速走向家庭和大众市场。国内某科技公司提出了全球首创的物理 AGI 双金字塔体系。他们试图以世界模型取代纯语言模型，推动通用机器人从工业走向家庭。云鲸智能创始人也预测，两年后扫地机器人将标配机械臂，能干更多复杂的家务活。\n\n穿戴设备也在全面接入 AI。科大讯飞正式发布了首款 AI 眼镜产品，整机仅重四十克。产品主打移动端 AI 工作流，试图以轻量化设计切入智能穿戴市场。同时，Oura 发布了第五代智能戒指。新款设备引入了由人工智能驱动的健康教练功能，从被动的数据追踪转向了主动式健康管理。\n\n出行领域方面，自动驾驶商业化规模进一步扩大。Waymo 宣布将在美国加州等地推出全新的 Robotaxi 车队。值得注意的是，这款专为无人驾驶设计的车辆由中国厂商极氪代工生产。\n\n最后，我们来看几条关于创业融资与商业政策的简讯。\n\nAI 辅助科研正获得顶级资本的青睐。零零后创业者洪乐潼创立的 AI 团队近期完成了高达十四亿元的巨额融资。其研发的系统已成功生成并形式化证明了多篇数学论文，五篇被学术期刊接收。\n\n数据云服务商 Snowflake 发布财报后股价暴涨百分之三十六。他们与 AWS 达成了一份价值六十亿美元的战略合作协议。市场将此视为企业端 AI 支出红利正在向应用软件层转移的重要风向标。\n\n政策合规方面，特斯拉在种族歧视诉讼中遭遇挫折。加州法院正式驳回了特斯拉试图撤销诉讼的请求。该案件涉及加州工厂针对少数族裔员工的系统性歧视指控，双方将在今年七月正式进入庭审阶段。\n\n以上就是今天的内容，我们明天见。",
+  "audio_url": "/audio/2026-05-28.mp3",
+  "audio_size_bytes": 2768301,
+  "duration_seconds": 231,
+  "duration_min": 4
+}

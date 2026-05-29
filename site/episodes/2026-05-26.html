@@ -1,0 +1,513 @@
+<!doctype html>
+<html lang="zh-cn">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, user-scalable=no" />
+<meta name="theme-color" content="#fafaf7" media="(prefers-color-scheme: light)" />
+<meta name="theme-color" content="#0d0e12" media="(prefers-color-scheme: dark)" />
+
+<title>5月26日 · 每日科技速读</title>
+<meta name="description" content="每天 5 分钟,听完昨天最重要的科技新闻。AI 总结播报,中英文一手信息。" />
+
+<!-- 标准图标 -->
+<link rel="icon" type="image/svg+xml" href="/static/favicon.svg" />
+<link rel="icon" type="image/png" sizes="192x192" href="/static/icon-192.png" />
+
+<!-- iOS 主屏图标 + 启动样式 -->
+<link rel="apple-touch-icon" sizes="180x180" href="/static/apple-touch-icon.png" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+<meta name="apple-mobile-web-app-title" content="科技速读" />
+
+<!-- PWA -->
+<link rel="manifest" href="/static/manifest.json" />
+
+<!-- 订阅 -->
+<link rel="alternate" type="application/rss+xml" title="每日科技速读 播客订阅" href="/feed.xml" />
+
+<!-- OpenGraph (微信/IM 分享卡片) -->
+<meta property="og:title" content="每日科技速读" />
+<meta property="og:description" content="每天 5 分钟,听完昨天最重要的科技新闻。AI 总结播报,中英文一手信息。" />
+<meta property="og:image" content="/static/cover.png" />
+<meta property="og:type" content="website" />
+
+<link rel="stylesheet" href="/static/style.css" />
+</head>
+<body>
+<header class="topbar">
+  <div class="container">
+    <a href="/" class="brand">
+      <span class="brand-logo" aria-hidden="true"></span>
+      <span>每日科技速读</span>
+    </a>
+    <nav class="topnav">
+      <a href="/archive.html">历史</a>
+      <a href="/feed.xml" class="subscribe" title="复制 RSS URL 到播客 App 订阅">
+        <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M6.18 17.82a2.18 2.18 0 1 1-4.36 0 2.18 2.18 0 0 1 4.36 0M2 8.86A12.93 12.93 0 0 1 15.14 22h2.83A15.81 15.81 0 0 0 2 6.03zm0-4.99A17.91 17.91 0 0 1 20.13 22h2.83C22.96 11.96 12.04 1.04 2 1.04z"/></svg>
+        订阅播客
+      </a>
+    </nav>
+  </div>
+</header>
+<main class="container">
+
+<section class="hero">
+  <div class="hero-cover">
+    <img src="/static/cover.svg" alt="每日科技速读 封面" />
+  </div>
+  <div class="hero-meta">
+    <div class="hero-eyebrow">最新一期 · 周二</div>
+    <h1 class="hero-title">5月26日 科技日报</h1>
+    <p class="hero-sub">今天的头条来自 OpenAI。GPT-5 正式发布,在数学、代码和长上下文推理上有大幅提升。模型支持一百万 token 上下文窗口,推理成本相比 GPT-4 下…</p>
+    <div class="hero-stats">
+      <span><strong>22</strong> 条新闻</span>
+      <span class="dot">·</span>
+      <span>约 <strong>8</strong> 分钟</span>
+      <span class="dot">·</span>
+      <span>8 个主题</span>
+    </div>
+  </div>
+</section>
+
+<div class="player" data-player
+     data-title="5月26日 科技日报"
+     data-album="每日科技速读"
+     data-artist="AI 主播"
+     data-artwork="/static/cover.png">
+  <audio preload="metadata" src="/audio/2026-05-26.mp3"></audio>
+  <div class="player-row">
+    <button class="btn-skip" data-skip="-15" aria-label="后退 15 秒">-15</button>
+    <button class="btn-play" aria-label="播放/暂停">
+      <svg data-icon-play viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg>
+      <svg data-icon-pause viewBox="0 0 24 24" aria-hidden="true" style="display:none"><path d="M6 5h4v14H6zm8 0h4v14h-4z"/></svg>
+    </button>
+    <button class="btn-skip" data-skip="15" aria-label="前进 15 秒">+15</button>
+    <span class="player-times"><span class="now">0:00</span> / <span class="dur">--:--</span></span>
+  </div>
+  <div class="player-bar">
+    <div class="player-bar-fill"></div>
+    <div class="player-bar-thumb"></div>
+  </div>
+  <div class="player-aux">
+    <div class="speed">
+      <button data-speed="1" class="on">1×</button>
+      <button data-speed="1.25">1.25×</button>
+      <button data-speed="1.5">1.5×</button>
+      <button data-speed="2">2×</button>
+    </div>
+    <a class="download" href="/audio/2026-05-26.mp3" download>
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 3v12m0 0l-4-4m4 4l4-4M4 21h16"/></svg>
+      下载 mp3
+    </a>
+  </div>
+</div>
+
+<details class="script">
+  <summary>展开播音稿全文（1302 字）</summary>
+  <div class="script-body">大家好,今天是五月二十六日,周二。这里是每日科技速读,我是你的主播。
+
+今天的头条来自 OpenAI。GPT-5 正式发布,在数学、代码和长上下文推理上有大幅提升。模型支持一百万 token 上下文窗口,推理成本相比 GPT-4 下降百分之四十。API 已经对企业用户开放,Plus 订阅者下周也能用上。
+
+紧接着是 Anthropic 的好消息。Anthropic 宣布完成六十亿美元的 D 轮融资,估值达到一千五百亿美元,Google 领投,亚马逊跟投。这笔钱主要用于训练下一代 Claude 5。
+
+开源模型方面,DeepSeek 发布了 R3 系列推理模型,在 AIME、HumanEval 等基准上超越 GPT-5,推理成本仅为后者的二十分之一。Mistral AI 也开源了 Mixtral 9x22B,激活参数三十九 B,支持十二万八千 token 上下文,Apache 2.0 协议商用。
+
+国内 AI 阵营,字节跳动发布豆包 1.6 大模型,中文 SuperCLUE 榜单第一,API 价格再降一半。Hugging Face 推出极简 Agent 框架 SmolAgents,核心代码仅五百行,首日 GitHub 星标破五千。
+
+来看 AI 产品。苹果在 iOS 18.5 推出 Screen Awareness 屏幕感知功能,Siri 可读取屏幕内容并跨 App 操作,使用三十 B 端侧模型,完全本地运行。小米澎湃 OS 4.0 开启公测,深度整合 MiLM 大模型,首批适配三十五款机型,六月全量推送。xAI 发布 Grok 3 Vision,支持长视频分析和多语言实时字幕。
+
+硬件赛道也很热闹。苹果发布 M4 Pro 芯片,采用第二代三纳米工艺,NPU 算力达三十八 TOPS,可在本地跑七十亿参数模型。NVIDIA Blackwell B100 GPU 开始量产爬坡,微软、Google、Meta、AWS 已下单总计八十万张。Meta Quest 4 头显发布,采用 4K micro-OLED 屏幕,重量较前代减轻百分之三十,售价五百九十九美元起。
+
+创投圈,AI 代码编辑器 Cursor 完成四亿美元 C 轮融资,估值达一百亿美元,月活开发者超两百万。Stripe 以十一亿美元收购稳定币基础设施 Bridge,这是 Stripe 史上最大规模收购。
+
+政策监管层面,TikTok 美国业务出售进入最后谈判,Oracle 牵头的财团报价八百亿美元。美国 FTC 对 Microsoft 启动反垄断调查,聚焦 AI 产品捆绑销售。国内,国务院发布生成式 AI 备案细则,七月一日起实施。
+
+互联网平台,Reddit 与 OpenAI 续签数据协议,年费上调至七千万美元。Shopify 上线 AI Editor,商家通过对话即可生成店铺页面,底层使用 Claude。Temu 全球月活突破七亿,半托管模式贡献六成 GMV。
+
+学术圈一条值得关注的:Google Willow 量子芯片首次实现指数纠错,距离实用化容错量子计算又近一步。
+
+以上就是今天的内容,我们明天见。</div>
+</details>
+
+<h2 class="section-title">逐条要点</h2>
+<section class="topic">
+  <div class="topic-head">
+    <h3>AI模型</h3>
+    <span class="topic-count">3</span>
+  </div>
+  <ul class="news-list">
+    <li class="news-card">
+      <div class="news-head">
+        <span class="news-importance" title="重要性 5/5">
+<span class="d on"></span><span class="d on"></span><span class="d on"></span><span class="d on"></span><span class="d on"></span>        </span>
+        <a class="title" href="https://example.com/gpt5" target="_blank" rel="noopener">OpenAI 发布 GPT-5,推理能力大幅提升,API 同步开放</a>
+      </div>
+      <div class="news-meta">
+        <span class="lang">EN</span>
+        <span class="source">Hacker News</span>
+      </div>
+      <p class="news-summary">OpenAI 正式发布 GPT-5,在数学、代码和长上下文推理方面相比 GPT-4 有大幅提升。模型支持 1M 上下文窗口,推理成本下降 40%。已对企业用户开放 API,Plus 订阅者下周可用。</p>
+      <ul class="news-points">
+<li>支持 1M token 上下文窗口</li><li>推理成本相比 GPT-4 下降 40%</li><li>API 已对企业用户开放,Plus 订阅者下周可用</li>      </ul>
+    </li>
+    <li class="news-card">
+      <div class="news-head">
+        <span class="news-importance" title="重要性 5/5">
+<span class="d on"></span><span class="d on"></span><span class="d on"></span><span class="d on"></span><span class="d on"></span>        </span>
+        <a class="title" href="https://example.com/deepseek-r3" target="_blank" rel="noopener">DeepSeek R3 在多项基准超越 GPT-5,推理成本仅为 1/20</a>
+      </div>
+      <div class="news-meta">
+        <span class="lang">EN</span>
+        <span class="source">MIT Tech Review</span>
+      </div>
+      <p class="news-summary">DeepSeek 发布 R3 系列推理模型,在 AIME、HumanEval 等基准上超越 GPT-5,推理成本仅为后者的 1/20。模型采用全新 MoE 架构,Apache 2.0 协议开源。</p>
+      <ul class="news-points">
+<li>AIME 数学评测超越 GPT-5</li><li>推理成本仅为 GPT-5 的 1/20</li><li>全新 MoE 架构,完全开源</li>      </ul>
+    </li>
+    <li class="news-card">
+      <div class="news-head">
+        <span class="news-importance" title="重要性 4/5">
+<span class="d on"></span><span class="d on"></span><span class="d on"></span><span class="d on"></span><span class="d "></span>        </span>
+        <a class="title" href="https://example.com/doubao-16" target="_blank" rel="noopener">字节跳动豆包大模型 1.6 上线,多模态能力对齐 GPT-5</a>
+      </div>
+      <div class="news-meta">
+        <span class="lang">ZH</span>
+        <span class="source">量子位</span>
+      </div>
+      <p class="news-summary">字节跳动发布豆包 1.6 大模型,新增视频理解、长文档处理能力。在中文榜单 SuperCLUE 上排名第一,API 价格再降 50%。</p>
+      <ul class="news-points">
+<li>中文 SuperCLUE 榜单第一</li><li>支持视频理解和长文档</li><li>API 价格再降 50%</li>      </ul>
+    </li>
+  </ul>
+</section>
+<section class="topic">
+  <div class="topic-head">
+    <h3>创业融资</h3>
+    <span class="topic-count">3</span>
+  </div>
+  <ul class="news-list">
+    <li class="news-card">
+      <div class="news-head">
+        <span class="news-importance" title="重要性 5/5">
+<span class="d on"></span><span class="d on"></span><span class="d on"></span><span class="d on"></span><span class="d on"></span>        </span>
+        <a class="title" href="https://example.com/anthropic" target="_blank" rel="noopener">Anthropic 完成 60 亿美元 D 轮融资,估值达 1500 亿</a>
+      </div>
+      <div class="news-meta">
+        <span class="lang">EN</span>
+        <span class="source">TechCrunch</span>
+      </div>
+      <p class="news-summary">Anthropic 宣布完成 60 亿美元 D 轮融资,估值达到 1500 亿美元。本轮由 Google 领投,亚马逊跟投,资金主要用于扩大算力和模型训练。</p>
+      <ul class="news-points">
+<li>估值 1500 亿美元,超越多数 SaaS 巨头</li><li>Google 领投,押注 Claude 商业化</li><li>资金用于训练 Claude 5</li>      </ul>
+    </li>
+    <li class="news-card">
+      <div class="news-head">
+        <span class="news-importance" title="重要性 4/5">
+<span class="d on"></span><span class="d on"></span><span class="d on"></span><span class="d on"></span><span class="d "></span>        </span>
+        <a class="title" href="https://example.com/cursor" target="_blank" rel="noopener">Cursor 完成 4 亿美元融资,估值突破 100 亿美元</a>
+      </div>
+      <div class="news-meta">
+        <span class="lang">EN</span>
+        <span class="source">TechCrunch</span>
+      </div>
+      <p class="news-summary">AI 代码编辑器 Cursor 完成 4 亿美元 C 轮融资,估值达 100 亿美元。月活跃开发者超过 200 万,年化收入突破 5 亿美元。</p>
+      <ul class="news-points">
+<li>估值 100 亿美元,AI Coding 第一梯队</li><li>月活开发者超 200 万</li><li>ARR 突破 5 亿美元</li>      </ul>
+    </li>
+    <li class="news-card">
+      <div class="news-head">
+        <span class="news-importance" title="重要性 3/5">
+<span class="d on"></span><span class="d on"></span><span class="d on"></span><span class="d "></span><span class="d "></span>        </span>
+        <a class="title" href="https://example.com/stripe-bridge" target="_blank" rel="noopener">Stripe 收购稳定币基础设施 Bridge,作价 11 亿美元</a>
+      </div>
+      <div class="news-meta">
+        <span class="lang">ZH</span>
+        <span class="source">爱范儿</span>
+      </div>
+      <p class="news-summary">Stripe 宣布以 11 亿美元收购稳定币支付基础设施 Bridge,这是 Stripe 历史上最大规模收购。Bridge 让任何企业以稳定币结算成本接近零、即时到账。</p>
+      <ul class="news-points">
+<li>Stripe 史上最大收购</li><li>切入稳定币支付赛道</li><li>为跨境电商降本</li>      </ul>
+    </li>
+  </ul>
+</section>
+<section class="topic">
+  <div class="topic-head">
+    <h3>AI产品</h3>
+    <span class="topic-count">4</span>
+  </div>
+  <ul class="news-list">
+    <li class="news-card">
+      <div class="news-head">
+        <span class="news-importance" title="重要性 4/5">
+<span class="d on"></span><span class="d on"></span><span class="d on"></span><span class="d on"></span><span class="d "></span>        </span>
+        <a class="title" href="https://example.com/apple-intelligence" target="_blank" rel="noopener">Apple Intelligence 推出&#39;屏幕感知&#39;功能,可读取任意 App 内容</a>
+      </div>
+      <div class="news-meta">
+        <span class="lang">EN</span>
+        <span class="source">The Verge</span>
+      </div>
+      <p class="news-summary">iOS 18.5 更新引入 Screen Awareness,Siri 可读取当前屏幕内容并跨 App 操作。功能依赖 Apple 自研 30B 端侧模型,完全本地运行。</p>
+      <ul class="news-points">
+<li>Siri 可读取屏幕,跨 App 操作</li><li>30B 端侧模型,本地运行</li><li>iPhone 15 Pro 及以上机型可用</li>      </ul>
+    </li>
+    <li class="news-card">
+      <div class="news-head">
+        <span class="news-importance" title="重要性 4/5">
+<span class="d on"></span><span class="d on"></span><span class="d on"></span><span class="d on"></span><span class="d "></span>        </span>
+        <a class="title" href="https://example.com/hyperos-4" target="_blank" rel="noopener">小米澎湃 OS 4.0 公测开启,首批支持 35 款机型</a>
+      </div>
+      <div class="news-meta">
+        <span class="lang">ZH</span>
+        <span class="source">IT之家</span>
+      </div>
+      <p class="news-summary">小米澎湃 OS 4.0 开启公测,深度整合 MiLM 大模型,支持系统级 AI 助手、智能场景识别、跨设备无缝协同。首批适配 35 款机型,6 月全量推送。</p>
+      <ul class="news-points">
+<li>深度整合 MiLM 大模型</li><li>首批 35 款机型适配</li><li>6 月全量推送</li>      </ul>
+    </li>
+    <li class="news-card">
+      <div class="news-head">
+        <span class="news-importance" title="重要性 3/5">
+<span class="d on"></span><span class="d on"></span><span class="d on"></span><span class="d "></span><span class="d "></span>        </span>
+        <a class="title" href="https://example.com/grok3" target="_blank" rel="noopener">xAI 推出 Grok 3 Vision,可分析视频并实时输出字幕</a>
+      </div>
+      <div class="news-meta">
+        <span class="lang">EN</span>
+        <span class="source">TechCrunch</span>
+      </div>
+      <p class="news-summary">xAI 发布 Grok 3 Vision,支持长视频分析、实时字幕、多语言翻译。集成在 X 平台,Premium+ 用户免费使用。</p>
+      <ul class="news-points">
+<li>支持长视频分析</li><li>多语言实时字幕</li><li>X Premium+ 免费</li>      </ul>
+    </li>
+    <li class="news-card">
+      <div class="news-head">
+        <span class="news-importance" title="重要性 3/5">
+<span class="d on"></span><span class="d on"></span><span class="d on"></span><span class="d "></span><span class="d "></span>        </span>
+        <a class="title" href="https://example.com/li-auto" target="_blank" rel="noopener">理想汽车智驾系统 OTA 推送,L3 级城区辅助开放 12 城</a>
+      </div>
+      <div class="news-meta">
+        <span class="lang">ZH</span>
+        <span class="source">IT之家</span>
+      </div>
+      <p class="news-summary">理想汽车 OTA 4.5 版本推送,L3 级城区智能辅助驾驶开放至 12 个城市。新增&#39;纯视觉端到端&#39;方案,无需高精地图。</p>
+      <ul class="news-points">
+<li>L3 级城区辅助开放 12 城</li><li>纯视觉端到端方案</li><li>不依赖高精地图</li>      </ul>
+    </li>
+  </ul>
+</section>
+<section class="topic">
+  <div class="topic-head">
+    <h3>硬件</h3>
+    <span class="topic-count">3</span>
+  </div>
+  <ul class="news-list">
+    <li class="news-card">
+      <div class="news-head">
+        <span class="news-importance" title="重要性 4/5">
+<span class="d on"></span><span class="d on"></span><span class="d on"></span><span class="d on"></span><span class="d "></span>        </span>
+        <a class="title" href="https://example.com/m4pro" target="_blank" rel="noopener">苹果发布 M4 Pro 芯片,NPU 算力达 38 TOPS</a>
+      </div>
+      <div class="news-meta">
+        <span class="lang">ZH</span>
+        <span class="source">少数派</span>
+      </div>
+      <p class="news-summary">苹果在 WWDC 前夕发布 M4 Pro 芯片,采用第二代 3nm 工艺,CPU 性能提升 25%,GPU 提升 40%。NPU 算力达 38 TOPS,可本地跑 70B 模型。</p>
+      <ul class="news-points">
+<li>第二代 3nm 工艺</li><li>NPU 38 TOPS,本地跑 70B 模型</li><li>新 MacBook Pro 七月发售</li>      </ul>
+    </li>
+    <li class="news-card">
+      <div class="news-head">
+        <span class="news-importance" title="重要性 4/5">
+<span class="d on"></span><span class="d on"></span><span class="d on"></span><span class="d on"></span><span class="d "></span>        </span>
+        <a class="title" href="https://example.com/nvidia-b100" target="_blank" rel="noopener">NVIDIA Blackwell B100 量产爬坡,云厂商抢购</a>
+      </div>
+      <div class="news-meta">
+        <span class="lang">EN</span>
+        <span class="source">Wired</span>
+      </div>
+      <p class="news-summary">NVIDIA Blackwell B100 GPU 已开始量产爬坡,微软、Google、Meta、AWS 已下单总计 80 万张。单卡价格约 4 万美元,预计 Q3 大规模交付。</p>
+      <ul class="news-points">
+<li>四大云厂商下单 80 万张</li><li>单卡 4 万美元</li><li>Q3 大规模交付</li>      </ul>
+    </li>
+    <li class="news-card">
+      <div class="news-head">
+        <span class="news-importance" title="重要性 3/5">
+<span class="d on"></span><span class="d on"></span><span class="d on"></span><span class="d "></span><span class="d "></span>        </span>
+        <a class="title" href="https://example.com/quest4" target="_blank" rel="noopener">Meta Quest 4 发布,Pancake 光学加重量减轻 30%</a>
+      </div>
+      <div class="news-meta">
+        <span class="lang">EN</span>
+        <span class="source">Engadget</span>
+      </div>
+      <p class="news-summary">Meta 正式发布 Quest 4 头显,采用 4K micro-OLED 屏幕和新一代 Pancake 光学,重量较 Quest 3 减轻 30%。售价 599 美元起,11 月发售。</p>
+      <ul class="news-points">
+<li>4K micro-OLED 屏幕</li><li>重量减轻 30%</li><li>售价 599 美元起</li>      </ul>
+    </li>
+  </ul>
+</section>
+<section class="topic">
+  <div class="topic-head">
+    <h3>政策监管</h3>
+    <span class="topic-count">3</span>
+  </div>
+  <ul class="news-list">
+    <li class="news-card">
+      <div class="news-head">
+        <span class="news-importance" title="重要性 4/5">
+<span class="d on"></span><span class="d on"></span><span class="d on"></span><span class="d on"></span><span class="d "></span>        </span>
+        <a class="title" href="https://example.com/tiktok-sale" target="_blank" rel="noopener">TikTok 美国业务出售案进入关键阶段,Oracle 牵头收购</a>
+      </div>
+      <div class="news-meta">
+        <span class="lang">EN</span>
+        <span class="source">Ars Technica</span>
+      </div>
+      <p class="news-summary">TikTok 美国业务出售案进入最后谈判,Oracle 牵头的财团报价 800 亿美元。算法是否一同转让仍是焦点,白宫倾向于&#39;数据 + 算法&#39;打包出售。</p>
+      <ul class="news-points">
+<li>Oracle 财团报价 800 亿美元</li><li>算法是否打包仍有争议</li><li>白宫支持算法一同出售</li>      </ul>
+    </li>
+    <li class="news-card">
+      <div class="news-head">
+        <span class="news-importance" title="重要性 4/5">
+<span class="d on"></span><span class="d on"></span><span class="d on"></span><span class="d on"></span><span class="d "></span>        </span>
+        <a class="title" href="https://example.com/ftc-microsoft" target="_blank" rel="noopener">美国 FTC 对 Microsoft 启动反垄断调查,聚焦 AI 捆绑销售</a>
+      </div>
+      <div class="news-meta">
+        <span class="lang">EN</span>
+        <span class="source">TechCrunch</span>
+      </div>
+      <p class="news-summary">美国 FTC 对 Microsoft 启动反垄断调查,焦点在 Windows、Office、Azure 与 Copilot 的捆绑销售。调查或持续 18 个月,可能要求剥离部分 AI 产品。</p>
+      <ul class="news-points">
+<li>聚焦 AI 产品捆绑销售</li><li>调查预计持续 18 个月</li><li>可能要求剥离 Copilot</li>      </ul>
+    </li>
+    <li class="news-card">
+      <div class="news-head">
+        <span class="news-importance" title="重要性 4/5">
+<span class="d on"></span><span class="d on"></span><span class="d on"></span><span class="d on"></span><span class="d "></span>        </span>
+        <a class="title" href="https://example.com/china-ai-reg" target="_blank" rel="noopener">国务院发布生成式 AI 备案细则,7 月 1 日实施</a>
+      </div>
+      <div class="news-meta">
+        <span class="lang">ZH</span>
+        <span class="source">InfoQ 中文</span>
+      </div>
+      <p class="news-summary">国务院发布《生成式人工智能服务管理暂行办法》实施细则,明确企业向公众提供 AI 服务前需完成算法备案、数据合规审查。新规 7 月 1 日实施。</p>
+      <ul class="news-points">
+<li>面向公众的 AI 服务需备案</li><li>算法 + 数据双重审查</li><li>7 月 1 日实施</li>      </ul>
+    </li>
+  </ul>
+</section>
+<section class="topic">
+  <div class="topic-head">
+    <h3>互联网平台</h3>
+    <span class="topic-count">3</span>
+  </div>
+  <ul class="news-list">
+    <li class="news-card">
+      <div class="news-head">
+        <span class="news-importance" title="重要性 3/5">
+<span class="d on"></span><span class="d on"></span><span class="d on"></span><span class="d "></span><span class="d "></span>        </span>
+        <a class="title" href="https://example.com/reddit-openai" target="_blank" rel="noopener">Reddit 与 OpenAI 续签数据协议,年费上调至 7000 万美元</a>
+      </div>
+      <div class="news-meta">
+        <span class="lang">ZH</span>
+        <span class="source">钛媒体</span>
+      </div>
+      <p class="news-summary">Reddit 宣布与 OpenAI 续签训练数据授权协议,年费由原 6000 万美元上调至 7000 万美元。同时新增&#39;实时问答&#39;集成,Reddit 内容将出现在 ChatGPT 答案中。</p>
+      <ul class="news-points">
+<li>授权年费上调至 7000 万美元</li><li>Reddit 内容进入 ChatGPT 答案</li><li>新增实时问答集成</li>      </ul>
+    </li>
+    <li class="news-card">
+      <div class="news-head">
+        <span class="news-importance" title="重要性 3/5">
+<span class="d on"></span><span class="d on"></span><span class="d on"></span><span class="d "></span><span class="d "></span>        </span>
+        <a class="title" href="https://example.com/shopify-ai" target="_blank" rel="noopener">Shopify 上线 AI Editor,商家可对话生成店铺页面</a>
+      </div>
+      <div class="news-meta">
+        <span class="lang">EN</span>
+        <span class="source">The Verge</span>
+      </div>
+      <p class="news-summary">Shopify 上线 AI Editor 功能,商家通过对话即可生成、修改产品页和品牌主页。底层使用 Anthropic Claude,所有 Shopify 商家免费可用。</p>
+      <ul class="news-points">
+<li>对话生成产品页和主页</li><li>底层使用 Claude</li><li>全部商家免费</li>      </ul>
+    </li>
+    <li class="news-card">
+      <div class="news-head">
+        <span class="news-importance" title="重要性 3/5">
+<span class="d on"></span><span class="d on"></span><span class="d on"></span><span class="d "></span><span class="d "></span>        </span>
+        <a class="title" href="https://example.com/temu" target="_blank" rel="noopener">拼多多 Temu 全球月活突破 7 亿,半托管模式贡献 60% GMV</a>
+      </div>
+      <div class="news-meta">
+        <span class="lang">ZH</span>
+        <span class="source">钛媒体</span>
+      </div>
+      <p class="news-summary">Temu 公布 Q1 数据,全球月活突破 7 亿,半托管模式 GMV 占比达 60%。在美业务受关税影响下滑 15%,但欧洲、拉美增长强劲。</p>
+      <ul class="news-points">
+<li>全球月活破 7 亿</li><li>半托管 GMV 占比 60%</li><li>美国市场受关税拖累</li>      </ul>
+    </li>
+  </ul>
+</section>
+<section class="topic">
+  <div class="topic-head">
+    <h3>开源工具</h3>
+    <span class="topic-count">2</span>
+  </div>
+  <ul class="news-list">
+    <li class="news-card">
+      <div class="news-head">
+        <span class="news-importance" title="重要性 3/5">
+<span class="d on"></span><span class="d on"></span><span class="d on"></span><span class="d "></span><span class="d "></span>        </span>
+        <a class="title" href="https://example.com/smolagents" target="_blank" rel="noopener">Hugging Face 推出 SmolAgents 框架,500 行代码搭建 Agent</a>
+      </div>
+      <div class="news-meta">
+        <span class="lang">EN</span>
+        <span class="source">Hacker News</span>
+      </div>
+      <p class="news-summary">Hugging Face 开源 SmolAgents,主打极简哲学,核心代码仅 500 行。原生支持 Python 解释器作为工具,可用任意 LLM,首日 GitHub star 破 5000。</p>
+      <ul class="news-points">
+<li>核心代码仅 500 行</li><li>Python 解释器原生作为工具</li><li>首日 GitHub 5000+ star</li>      </ul>
+    </li>
+    <li class="news-card">
+      <div class="news-head">
+        <span class="news-importance" title="重要性 3/5">
+<span class="d on"></span><span class="d on"></span><span class="d on"></span><span class="d "></span><span class="d "></span>        </span>
+        <a class="title" href="https://example.com/mistral-mixtral" target="_blank" rel="noopener">Mistral 开源 Mixtral 9x22B,128K 上下文,Apache 2.0</a>
+      </div>
+      <div class="news-meta">
+        <span class="lang">EN</span>
+        <span class="source">VentureBeat AI</span>
+      </div>
+      <p class="news-summary">Mistral AI 开源 Mixtral 9x22B 模型,采用稀疏 MoE 架构,激活参数 39B,支持 128K 上下文。Apache 2.0 协议,可商用。</p>
+      <ul class="news-points">
+<li>9x22B MoE,激活 39B 参数</li><li>128K 上下文</li><li>Apache 2.0 协议商用</li>      </ul>
+    </li>
+  </ul>
+</section>
+<section class="topic">
+  <div class="topic-head">
+    <h3>学术研究</h3>
+    <span class="topic-count">1</span>
+  </div>
+  <ul class="news-list">
+    <li class="news-card">
+      <div class="news-head">
+        <span class="news-importance" title="重要性 3/5">
+<span class="d on"></span><span class="d on"></span><span class="d on"></span><span class="d "></span><span class="d "></span>        </span>
+        <a class="title" href="https://example.com/google-willow" target="_blank" rel="noopener">Google Willow 量子芯片实现 105 量子比特纠错突破</a>
+      </div>
+      <div class="news-meta">
+        <span class="lang">EN</span>
+        <span class="source">MIT Tech Review</span>
+      </div>
+      <p class="news-summary">Google 量子团队发布论文,Willow 芯片首次实现量子比特数量越多、错误率越低的&#39;指数纠错&#39;目标。距离实用化容错量子计算又近一步。</p>
+      <ul class="news-points">
+<li>105 量子比特规模</li><li>首次实现指数纠错</li><li>迈向实用化容错量子</li>      </ul>
+    </li>
+  </ul>
+</section>
+
+</main>
+<footer class="container">
+  <p>由 AI 自动生成 · AI 主播</p>
+  <p>把 <a href="/feed.xml">/feed.xml</a> 粘贴到 Apple Podcasts / 小宇宙 / Pocket Casts 即可订阅</p>
+</footer>
+<script src="/static/player.js" defer></script>
+</body>
+</html>

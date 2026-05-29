@@ -1,0 +1,155 @@
+{
+  "date": "2026-05-27",
+  "generated_at": "2026-05-28T14:51:42.346873+08:00",
+  "items": [
+    {
+      "id": "c6efcdbd3fd13c83",
+      "source": "InfoQ 中文",
+      "lang": "zh",
+      "weight": 2,
+      "title": "Google Cloud 在 BigQuery 中引入跨引擎 Apache Iceberg 支持",
+      "link": "https://www.infoq.cn/article/kadDStA9JWuOGHujwdoz?utm_source=rss&utm_medium=article",
+      "published": "2026-05-27T17:07:37+08:00",
+      "summary_raw": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/kadDStA9JWuOGHujwdoz?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>",
+      "ai_summary": "Google Cloud 宣布在 BigQuery 中引入跨引擎的 Apache Iceberg 支持,使用户能够在不同计算引擎之间共享和管理 Iceberg 表格式的数据,提升数据湖仓架构的互操作性和灵活性,减少数据孤岛与重复存储成本。",
+      "ai_points": [
+        "BigQuery 新增跨引擎 Apache Iceberg 支持,统一数据湖仓格式",
+        "提升多引擎协作能力,降低数据迁移与重复存储成本",
+        "对使用多云、多引擎数据栈的企业数据团队意义重大"
+      ],
+      "topic": "开源工具",
+      "importance": 3
+    },
+    {
+      "id": "eb4025c05ffeb949",
+      "source": "爱范儿",
+      "lang": "zh",
+      "weight": 2,
+      "title": "再访 XREAL 徐驰：做眼镜是场万米长跑，靠运气也靠打怪升级",
+      "link": "https://www.ifanr.com/1667067?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "published": "2026-05-27T16:26:30+08:00",
+      "summary_raw": "XREAL 把今年的第一场发布会，留给了一个之前没听说过的新牌子：xbx。内部的全称是 x, by XREAL。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+      "ai_summary": "XREAL 创始人徐驰在专访中分享了 AR 眼镜行业的长期主义观点,并在年度首场发布会上推出全新子品牌 xbx(x, by XREAL)。徐驰将做眼镜比作万米长跑,强调既靠运气也靠持续打怪升级的能力。",
+      "ai_points": [
+        "XREAL 推出新子品牌 xbx,丰富 AR 眼镜产品线",
+        "徐驰强调 AR 眼镜是长期赛道,需要持续技术积累",
+        "对关注 AR/XR 硬件赛道的从业者和投资人有参考价值"
+      ],
+      "topic": "硬件",
+      "importance": 3
+    },
+    {
+      "id": "f343d7765fe3626a",
+      "source": "爱范儿",
+      "lang": "zh",
+      "weight": 2,
+      "title": "早报｜小米卢伟冰：大型新车今年下半年上市/支付宝推出全球首个Token Pay服务/滴滴崩了，官方致歉",
+      "link": "https://www.ifanr.com/1667026?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "published": "2026-05-27T08:10:38+08:00",
+      "summary_raw": "· QuestMobile：AI 原生 App 月活达到 4.61 亿\n· 特斯拉高管：正研究三电机版 Model 3 的可行性\n· 阿里 Qwen3.7-Max 登顶国产第一，仅次于 Claude Opus 4.7 thinking<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+      "ai_summary": "科技早报集合多条消息:小米卢伟冰确认大型新车将于今年下半年上市;支付宝推出全球首个 Token Pay 服务;滴滴出现服务故障并致歉。此外 QuestMobile 数据显示 AI 原生 App 月活达 4.61 亿,阿里 Qwen3.7-Max 登顶国产模型第一。",
+      "ai_points": [
+        "小米下半年推大型新车,支付宝首发 Token Pay 全球服务",
+        "AI 原生 App 月活达 4.61 亿,用户规模快速增长",
+        "Qwen3.7-Max 登顶国产模型,仅次于 Claude Opus 4.7"
+      ],
+      "topic": "其他",
+      "importance": 3
+    },
+    {
+      "id": "990c2f5aa0f76510",
+      "source": "Ars Technica",
+      "lang": "en",
+      "weight": 2,
+      "title": "Is Peter Thiel the target of Pope Leo's Gandalf quote? An investigation.",
+      "link": "https://arstechnica.com/tech-policy/2026/05/is-peter-thiel-the-target-of-pope-leos-gandalf-quote-an-investigation/",
+      "published": "2026-05-27T06:27:32+08:00",
+      "summary_raw": "Parsing a papal proclamation.",
+      "ai_summary": "Ars Technica 发表评论文章,分析教皇 Leo 近期一段引用《指环王》中 Gandalf 台词的讲话,推测其是否暗指硅谷投资人 Peter Thiel。文章对宗教与科技精英之间的舆论交锋进行了解读。",
+      "ai_points": [
+        "教皇 Leo 引用 Gandalf 台词,被解读为暗指 Peter Thiel",
+        "反映宗教界对硅谷科技精英意识形态的关注",
+        "对关注科技与社会舆论交叉议题的读者有参考意义"
+      ],
+      "topic": "其他",
+      "importance": 1
+    },
+    {
+      "id": "1b0215894c142a96",
+      "source": "Ars Technica",
+      "lang": "en",
+      "weight": 2,
+      "title": "Musk says US military suicide drones used Starlink in violation of SpaceX rules",
+      "link": "https://arstechnica.com/tech-policy/2026/05/musk-says-us-military-suicide-drones-used-starlink-in-violation-of-spacex-rules/",
+      "published": "2026-05-27T05:23:56+08:00",
+      "summary_raw": "Musk says drones used Starlink instead of Starshield, blames military contractor.",
+      "ai_summary": "Elon Musk 表示美国军方的自杀式无人机违反 SpaceX 规则,使用了民用 Starlink 服务,而非专为军用设计的 Starshield。Musk 将责任归咎于军方承包商,事件凸显军用与民用卫星通信资源使用边界的合规问题。",
+      "ai_points": [
+        "美军无人机违规使用 Starlink 而非军用版 Starshield",
+        "Musk 公开点名军方承包商,推卸 SpaceX 责任",
+        "涉及卫星通信军民用合规,影响国防与商业航天合作"
+      ],
+      "topic": "政策监管",
+      "importance": 3
+    },
+    {
+      "id": "c1d70ed9aa588ec4",
+      "source": "Ars Technica",
+      "lang": "en",
+      "weight": 2,
+      "title": "NASA takes steps toward building Moon Base, including discussing a \"perimeter\"",
+      "link": "https://arstechnica.com/space/2026/05/nasa-takes-steps-toward-building-moon-base-including-discussing-a-perimeter/",
+      "published": "2026-05-27T05:03:03+08:00",
+      "summary_raw": "\"We also obviously want to be very mindful of the Outer Space Treaty.\"",
+      "ai_summary": "NASA 正推进月球基地建设的具体步骤,包括讨论在基地周边设立\"安全边界\"(perimeter)。NASA 同时表示会注意遵守《外层空间条约》,在国际法框架内推进登月长期驻留计划。",
+      "ai_points": [
+        "NASA 推进月球基地建设,讨论设立安全边界",
+        "强调遵守《外层空间条约》,平衡战略与国际法",
+        "对全球航天竞争格局和太空资源治理有深远影响"
+      ],
+      "topic": "其他",
+      "importance": 3
+    },
+    {
+      "id": "64707e09911e3aff",
+      "source": "InfoQ 中文",
+      "lang": "zh",
+      "weight": 2,
+      "title": "蚂蚁重磅领投，光轮智能完成新一轮融资！物理AI的价值中心，已经变了",
+      "link": "https://www.infoq.cn/article/bdsq4OUrTNJdvCLaxo0u?utm_source=rss&utm_medium=article",
+      "published": "2026-05-27T02:01:21+08:00",
+      "summary_raw": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/bdsq4OUrTNJdvCLaxo0u?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>",
+      "ai_summary": "光轮智能完成新一轮融资,由蚂蚁集团重磅领投。文章指出,随着具身智能与物理 AI(Physical AI)的发展,行业的价值中心正在发生迁移,数据合成与仿真等环节获得资本和巨头的高度关注。",
+      "ai_points": [
+        "蚂蚁领投光轮智能新一轮融资,布局物理 AI 赛道",
+        "物理 AI 价值中心向仿真与合成数据迁移",
+        "对具身智能、机器人、自动驾驶创业者意义重大"
+      ],
+      "topic": "创业融资",
+      "importance": 4
+    },
+    {
+      "id": "e737965b09e98801",
+      "source": "Engadget",
+      "lang": "en",
+      "weight": 1,
+      "title": "How to get wired internet without running ethernet cables",
+      "link": "https://www.engadget.com/2182061/how-to-get-wired-internet-without-ethernet-cable-in-walls/",
+      "published": "2026-05-27T23:30:00+08:00",
+      "summary_raw": "Advances in adapters mean you could ditch Wi-Fi for better performance.",
+      "ai_summary": "Engadget 发表实用指南,介绍如何在不铺设以太网线的情况下获得有线级别的网络体验。文章指出近年来网络适配器(如 MoCA、电力线网络等)技术进步明显,用户可借此摆脱 Wi-Fi 性能瓶颈。",
+      "ai_points": [
+        "无需布线即可获得近似有线网络的稳定性能",
+        "MoCA、电力线适配器等技术近年明显进步",
+        "对家庭办公、游戏玩家等高带宽需求用户有用"
+      ],
+      "topic": "其他",
+      "importance": 2
+    }
+  ],
+  "script": "大家好,欢迎收听今天的科技日报,今天是五月二十七日,星期三。我们先从创业融资的大事说起。\n\n第一条,物理 AI 赛道又迎来一笔重磅融资。光轮智能完成新一轮融资,由蚂蚁集团领投。这笔融资释放出一个明确信号,具身智能与 Physical AI 的价值中心,正在从模型本身向数据合成与仿真环节迁移。过去大家关注谁能训出更大的模型,现在巨头和资本开始押注上游的数据基础设施。光轮智能正是做合成数据与仿真起家。蚂蚁这一次出手,意味着大厂对物理 AI 数据底座的重视已经摆上台面。\n\n接下来看几条来自互联网行业的早报消息。\n\n小米方面,卢伟冰确认,小米的大型新车将在今年下半年正式上市。这款车被外界视为小米汽车冲击中高端的关键产品。同一份早报里还有几个亮点。支付宝推出了全球首个 Token Pay 服务,瞄准的是 AI Agent 时代的支付场景。滴滴出现大面积服务故障,官方已经致歉。QuestMobile 数据显示,AI 原生 App 月活已经达到四点六一亿。其中阿里的 Qwen 三点七 Max 登顶国产模型第一。AI 应用的渗透速度,比很多人预期得要快。\n\n说完应用层,我们看一条基础设施的消息。\n\nGoogle Cloud 宣布,在 BigQuery 中引入跨引擎的 Apache Iceberg 支持。简单说,用户可以在不同计算引擎之间共享和管理 Iceberg 表格式的数据。这对数据湖仓架构是一个明显的利好。数据孤岛减少,重复存储成本下降,互操作性提升。Iceberg 正在成为开放数据湖事实上的标准格式,Google 这一步,是在跟 Snowflake、Databricks 抢夺中立数据底座的话语权。\n\n下面是政策与合规层面的一条新闻。\n\nElon Musk 公开表示,美国军方的自杀式无人机违反了 SpaceX 的使用规则。这些无人机使用的是民用 Starlink,而不是专门为军用场景设计的 Starshield。Musk 把责任甩给了军方承包商。这件事的看点在于,军用与民用卫星通信资源的使用边界,正变得越来越敏感。商业航天公司如何在国家安全和合规之间划线,会是后面几年绕不开的问题。\n\n接下来聊硬件。\n\nXREAL 创始人徐驰接受了专访,并发布了全新子品牌 xbx,也就是 x,by XREAL。徐驰把做 AR 眼镜形容为一场万米长跑。他强调,这条路既靠运气,也靠持续打怪升级。AR 眼镜行业经过几轮起落,真正能跑下来的玩家不多。XREAL 推出子品牌,意味着产品线开始分层,瞄准更细分的人群。\n\n最后是几条简短的国际消息。\n\nNASA 在推进月球基地建设上又前进了一步,内部正在讨论在基地周边设立安全边界。同时 NASA 表态会遵守《外层空间条约》,在国际法框架内推进长期驻留计划。月球的\"圈地\"问题,正从科幻走向现实议题。\n\nEngadget 发布了一篇实用指南,讨论如何在不铺设以太网线的情况下获得有线级别的网络体验。文章重点介绍了 MoCA 和电力线网络等方案。对于受困于 Wi-Fi 性能瓶颈的用户,是个不错的参考。\n\nArs Technica 还有一篇有意思的评论,分析教皇 Leo 最近一段引用《指环王》中 Gandalf 台词的讲话,推测是不是在暗指硅谷投资人 Peter Thiel。宗教与科技精英之间的舆论交锋,最近确实越来越频繁。\n\n以上就是今天的内容,我们明天见。",
+  "audio_url": "",
+  "audio_size_bytes": 0,
+  "duration_seconds": 0,
+  "duration_min": 0
+}
