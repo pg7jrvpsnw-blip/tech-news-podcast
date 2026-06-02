@@ -11,6 +11,7 @@ from .build_feed import build_feed
 from .build_site import build_site
 from .config import AUDIO_DIR, BEIJING, DATA_DIR, PODCAST, SITE_DIR
 from .fetch import fetch_yesterday
+from .push_feishu import push_episode
 from .summarize import build_podcast_script, summarize_items
 from .tts import get_duration_seconds, synthesize
 from .upload import is_configured as r2_configured
@@ -82,6 +83,9 @@ def run(target_date: date, skip_tts: bool = False) -> None:
     build_site()
     build_feed()
     log.info("done. open file://%s/index.html", SITE_DIR)
+
+    # 7. 推送到飞书群(配了 webhook 才推)
+    push_episode(ep_data)
 
 
 def main() -> None:

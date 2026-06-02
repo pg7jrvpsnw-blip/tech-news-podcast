@@ -8,7 +8,11 @@
       "title": "Meta 推出新一代 Ray-Ban 智能眼镜",
       "link": "https://example.com/meta-glasses",
       "ai_summary": "Meta 与 EssilorLuxottica 联合发布第三代 Ray-Ban 智能眼镜,新增屏幕显示和手势识别。售价 499 美元起。",
-      "ai_points": ["首款带屏幕的 Ray-Ban", "支持手势识别", "售价 499 美元"],
+      "ai_points": [
+        "首款带屏幕的 Ray-Ban",
+        "支持手势识别",
+        "售价 499 美元"
+      ],
       "topic": "硬件",
       "importance": 4
     },
@@ -19,13 +23,17 @@
       "title": "DeepSeek 开源 V4 系列模型",
       "link": "https://example.com/deepseek-v4",
       "ai_summary": "DeepSeek 开源 V4 系列,在 MMLU、HumanEval 等基准超越 Llama 3.2,推理速度提升 2 倍。",
-      "ai_points": ["MMLU 提升 5 个点", "推理速度提升 2 倍", "Apache 2.0 协议开源"],
+      "ai_points": [
+        "MMLU 提升 5 个点",
+        "推理速度提升 2 倍",
+        "Apache 2.0 协议开源"
+      ],
       "topic": "AI模型",
       "importance": 5
     }
   ],
   "script": "大家好,今天是五月二十五日。\n\n硬件方面,Meta 与 EssilorLuxottica 推出第三代 Ray-Ban 智能眼镜。\n\n开源圈,DeepSeek 开源 V4 系列模型。",
-  "audio_url": "/audio/2026-05-25.mp3",
+  "audio_url": "",
   "audio_size_bytes": 3800000,
   "duration_seconds": 268,
   "duration_min": 4

@@ -95,6 +95,10 @@ OPENAI_TTS_VOICE = os.getenv("OPENAI_TTS_VOICE", "shimmer")
 SAY_VOICE = os.getenv("SAY_VOICE", "Tingting")
 SAY_RATE = int(os.getenv("SAY_RATE", "190"))  # 字/分钟,默认稍快
 
+# ===== 飞书机器人推送 =====
+# 群机器人安全设置选"关键词"=科技速读(下面卡片标题里已包含)
+FEISHU_BOT_WEBHOOK = os.getenv("FEISHU_BOT_WEBHOOK", "")
+
 # 播客元信息
 PODCAST = {
     "title": os.getenv("PODCAST_TITLE", "每日科技速读"),

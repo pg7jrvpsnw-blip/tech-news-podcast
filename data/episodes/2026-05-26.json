@@ -334,7 +334,7 @@
     }
   ],
   "script": "大家好,今天是五月二十六日,周二。这里是每日科技速读,我是你的主播。\n\n今天的头条来自 OpenAI。GPT-5 正式发布,在数学、代码和长上下文推理上有大幅提升。模型支持一百万 token 上下文窗口,推理成本相比 GPT-4 下降百分之四十。API 已经对企业用户开放,Plus 订阅者下周也能用上。\n\n紧接着是 Anthropic 的好消息。Anthropic 宣布完成六十亿美元的 D 轮融资,估值达到一千五百亿美元,Google 领投,亚马逊跟投。这笔钱主要用于训练下一代 Claude 5。\n\n开源模型方面,DeepSeek 发布了 R3 系列推理模型,在 AIME、HumanEval 等基准上超越 GPT-5,推理成本仅为后者的二十分之一。Mistral AI 也开源了 Mixtral 9x22B,激活参数三十九 B,支持十二万八千 token 上下文,Apache 2.0 协议商用。\n\n国内 AI 阵营,字节跳动发布豆包 1.6 大模型,中文 SuperCLUE 榜单第一,API 价格再降一半。Hugging Face 推出极简 Agent 框架 SmolAgents,核心代码仅五百行,首日 GitHub 星标破五千。\n\n来看 AI 产品。苹果在 iOS 18.5 推出 Screen Awareness 屏幕感知功能,Siri 可读取屏幕内容并跨 App 操作,使用三十 B 端侧模型,完全本地运行。小米澎湃 OS 4.0 开启公测,深度整合 MiLM 大模型,首批适配三十五款机型,六月全量推送。xAI 发布 Grok 3 Vision,支持长视频分析和多语言实时字幕。\n\n硬件赛道也很热闹。苹果发布 M4 Pro 芯片,采用第二代三纳米工艺,NPU 算力达三十八 TOPS,可在本地跑七十亿参数模型。NVIDIA Blackwell B100 GPU 开始量产爬坡,微软、Google、Meta、AWS 已下单总计八十万张。Meta Quest 4 头显发布,采用 4K micro-OLED 屏幕,重量较前代减轻百分之三十,售价五百九十九美元起。\n\n创投圈,AI 代码编辑器 Cursor 完成四亿美元 C 轮融资,估值达一百亿美元,月活开发者超两百万。Stripe 以十一亿美元收购稳定币基础设施 Bridge,这是 Stripe 史上最大规模收购。\n\n政策监管层面,TikTok 美国业务出售进入最后谈判,Oracle 牵头的财团报价八百亿美元。美国 FTC 对 Microsoft 启动反垄断调查,聚焦 AI 产品捆绑销售。国内,国务院发布生成式 AI 备案细则,七月一日起实施。\n\n互联网平台,Reddit 与 OpenAI 续签数据协议,年费上调至七千万美元。Shopify 上线 AI Editor,商家通过对话即可生成店铺页面,底层使用 Claude。Temu 全球月活突破七亿,半托管模式贡献六成 GMV。\n\n学术圈一条值得关注的:Google Willow 量子芯片首次实现指数纠错,距离实用化容错量子计算又近一步。\n\n以上就是今天的内容,我们明天见。",
-  "audio_url": "/audio/2026-05-26.mp3",
+  "audio_url": "",
   "audio_size_bytes": 6800000,
   "duration_seconds": 472,
   "duration_min": 8
