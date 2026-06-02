@@ -35,13 +35,12 @@ jobs:
 
       - name: Run daily build
         env:
-          # Claude (mify/PPIO 或 Anthropic 官方)
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          ANTHROPIC_BASE_URL: ${{ secrets.ANTHROPIC_BASE_URL }}
-          ANTHROPIC_MODEL: ${{ secrets.ANTHROPIC_MODEL }}
-          # OpenAI TTS
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          OPENAI_BASE_URL: ${{ secrets.OPENAI_BASE_URL }}
+          # 摘要 LLM (走 mify OpenAI 兼容接口)
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+          LLM_BASE_URL: ${{ secrets.LLM_BASE_URL }}
+          LLM_MODEL: ${{ secrets.LLM_MODEL }}
+          # TTS
+          TTS_BACKEND: ${{ secrets.TTS_BACKEND }}
           OPENAI_TTS_MODEL: ${{ secrets.OPENAI_TTS_MODEL }}
           OPENAI_TTS_VOICE: ${{ secrets.OPENAI_TTS_VOICE }}
           # 播客元信息
