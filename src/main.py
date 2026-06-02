@@ -49,13 +49,16 @@ def run(target_date: date, skip_tts: bool = False) -> None:
         synthesize(script, mp3_path)
         duration_sec = get_duration_seconds(mp3_path)
         audio_size = mp3_path.stat().st_size
-        # 配置了 R2 走云端;否则本地路径(适合本地开发)
-        key = f"episodes/{target_date.isoformat()}.mp3"
-        audio_url = upload_mp3(mp3_path, key)
         if r2_configured():
-            log.info("audio public URL: %s", audio_url)
+            # 配了 R2:上传得到公网 URL
+            key = f"episodes/{target_date.isoformat()}.mp3"
+            audio_url = upload_mp3(mp3_path, key)
+            log.info("audio R2 URL: %s", audio_url)
         else:
-            log.info("audio (local): %s", audio_url)
+            # 没配 R2:走 PODCAST_SITE_URL (例 https://xxx.pages.dev),mp3 进 Git 由 CF Pages 服务
+            site_url = (PODCAST.get("site_url") or "").rstrip("/")
+            audio_url = f"{site_url}/audio/{target_date.isoformat()}.mp3"
+            log.info("audio site URL: %s", audio_url)
 
     # 5. 写 episode JSON
     ep_data = {

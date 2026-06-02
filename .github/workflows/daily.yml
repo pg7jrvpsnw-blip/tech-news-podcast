@@ -1,10 +1,10 @@
 name: Daily Podcast Build
 
+# 仅手动触发:GitHub Actions 跑在 Azure 美国节点,无法访问 mify 内网 API。
+# 实际每日调度在 Mac 本地 launchd 跑(scripts/daily.sh + plist)。
+# 这个 workflow 仅作为"手动 rebuild 站点"的备用入口(例:你改了模板想强制重渲染时)。
 on:
-  schedule:
-    # 北京时间 07:23 = UTC 23:23 (前一天)。错开整点避开 GH Actions 排队高峰。
-    - cron: "23 23 * * *"
-  workflow_dispatch: # 支持仓库页面手动触发
+  workflow_dispatch:
 
 jobs:
   build:

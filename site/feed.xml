@@ -13,7 +13,7 @@
       <link>http://localhost:8765/feed.xml</link>
     </image>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 29 May 2026 05:13:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 03:41:04 +0000</lastBuildDate>
     <itunes:author>AI 主播</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="http://localhost:8765/static/cover.png"/>
@@ -201,6 +201,108 @@ AI 辅助科研正获得顶级资本的青睐。零零后创业者洪乐潼创�
 数据云服务商 Snowflake 发布财报后股价暴涨百分之三十六。他们与 AWS 达成了一份价值六十亿美元的战略合作协议。市场将此视为企业端 AI 支出红利正在向应用软件层转移的重要风向标。
 
 政策合规方面，特斯拉在种族歧视诉讼中遭遇挫折。加州法院正式驳回了特斯拉试图撤销诉讼的请求。该案件涉及加州工厂针对少数族裔员工的系统性歧视指控，双方将在今年七月正式进入庭审阶段。
+
+以上就是今天的内容，我们明天见。</itunes:summary>
+    </item>
+    <item>
+      <title>2026-06-01 科技日报</title>
+      <link>http://localhost:8765/episodes/2026-06-01.html</link>
+      <description>共收录 50 条科技新闻。
+
+【学术研究】
+· What appear to be biochemical processes may be a natural feature of geology
+· CS336: Language Modeling from Scratch
+· 材料版AlphaFold来了！40个工业任务全方位SOTA，AI4S迎来行业大突破
+
+【互联网平台】
+· Ask HN: Who is hiring? (June 2026)
+· Ask HN: Who wants to be hired? (June 2026)
+· 派评 | 近期值得关注的 App
+· 把一句经文放进每天：「一日一偈」的轻阅读尝试
+· Summer Game Fest 2026: All the news from gaming&amp;#8217;s busiest week
+
+【硬件】
+· The Download: China’s brain implant ambitions
+· China has approved the world’s first invasive brain-computer chip—here’s what’s next
+· 成本 600 元不到，我 3D 打印了一把能弹的电吉他
+· An affordable, long-lasting AirTag alternative is $15 right now
+· Nvidia RTX Spark comes to Windows PCs with Arm CPU, RTX GPU, and unified memory
+
+【创业融资】
+· 清智系企业亮相 BEYOND Expo 2026 并斩获多项大奖
+· 近2亿美元！VAST完成新一轮融资，正式披露世界模型路线
+· “牛散”付小铜的豪赌：23亿"蛇吞象"欲助万隆光电翻盘 | 并购一线
+· Unastella, a South Korean rocket startup that launched from home, raises $24M
+
+【其他】
+· 德系精工邂逅中国智慧 全新奥迪Q5L现已登陆全国门店
+· 派早报：Anthropic 估值超过 OpenAI
+· 《奇遇旧金山》先导片：中国奇遇团集结，带你奔赴 Snowflake Summit 26！
+· Norse Atlantic Airways Offers Dirt-Cheap Tickets. There’s a Catch
+· The Painful Truth About Long Covid
+
+【AI模型】
+· 今天起，无限期免费！全球首个全模态API开放，Top 10 AI Lab出手
+· An OpenAI model solved a famous math problem that stumped humans for 80 years
+· 任务成本仅为Claude Opus 4.6 1/9，阶跃刷新Flash模型效率
+· 世界模型赛道，VAST 选了一条还没有人走过的路
+
+【AI产品】
+· OpenAI重返机器人赛道！四大核心岗位开招
+· Token贵只因你喂给模型的垃圾太多了丨@亚马逊王晓野AIGC2026
+· Snowflake 换了战场：守住数据之后，要管住AI
+· 大模型云上训练工程突破：阿里云PAI在超大规模集群下的调度与容错实践｜AICon上海
+· Anthropic在Code With Claude上发布托管式智能体、主动式工作流与能力曲线
+
+【开源工具】
+· OpenJDK 近期新闻：Vector API、紧凑对象头以及 G1GC 成为 JDK 27 的默认垃圾回收器
+· 谷歌推出适用于 Genkit 应用程序的中间件架构
+
+【政策监管】
+· ‘Sexual Chocolate’ Faces Recalls After FDA Tests Reveal Undisclosed Viagra</description>
+      <guid isPermaLink="false">http://localhost:8765/audio/2026-06-01.mp3</guid>
+      <enclosure url="http://localhost:8765/audio/2026-06-01.mp3" length="2854701" type="audio/mpeg"/>
+      <pubDate>Mon, 01 Jun 2026 08:00:00 +0800</pubDate>
+      <itunes:duration>238</itunes:duration>
+      <itunes:summary>大家好，今天是二零二六年六月一日。欢迎收听今天的科技资讯。
+
+首先我们来关注人工智能领域的最新动态。
+
+一家顶尖人工智能实验室宣布大动作。其研发的全球首个全模态应用接口即日起无限期免费开放。该接口全面支持文本图像和视频等数据处理。此举大幅降低了开发者的技术门槛。这极有可能对当前按量收费的大模型市场格局造成巨大冲击。
+
+人工智能在科学领域的应用也取得突破。OpenAI 的模型成功解决了一个数学难题。该问题曾困扰人类数学家八十年。这展示了人工智能在解决复杂逻辑上的能力。大模型已具备协助前沿基础科学研究的潜力。学术界正重新评估其在科研领域的价值。
+
+同时 OpenAI 正在高调重返机器人赛道。他们公开招聘四个核心岗位。相关职位的年薪超过两百万人民币。这表明他们在多模态大模型取得显著进展。OpenAI 正加速将核心能力向具身智能和物理世界延伸。
+
+另一家大模型巨头也有新动作。Anthropic 在 Code With Claude 平台上发布了全新功能。其中包括托管式智能体和主动式工作流。此次更新旨在提升开发者的编程效率。人工智能模型将更加深度地融入软件实际开发流程。这将满足更复杂的企业级开发需求。
+
+国内大模型在成本控制上取得进展。阶跃星辰近期刷新了其 Flash 模型的运行效率。该模型执行特定任务的成本大幅降低。测试显示其成本仅为 Claude 3 Opus 模型的九分之一。这标志着国产大模型在性能与推理成本之间取得更好平衡。它将进一步满足企业的大规模商用落地需求。
+
+数据云巨头 Snowflake 正在进行重大战略转型。其业务重心正逐步向人工智能治理和应用落地延伸。单纯的数据孤岛已无法满足当前市场需求。Snowflake 开始提供集成的工具链和模型管理服务。企业可以在确保数据合规的前提下部署大模型。这标志着数据平台正加速向人工智能平台演进。
+
+接下来我们把目光转向硬件和芯片赛道。
+
+NVIDIA 面向 Windows 平台正式推出 RTX Spark 架构。该架构将 Arm 架构处理器和 RTX 系列显卡整合。它还开创性地加入了统一内存技术。新型芯片将首先应用于移动工作站和迷你台式电脑。这将极大提升端侧人工智能计算的能效表现。
+
+竞争对手 Intel 也在积极布局。Intel 宣布即将推出代号为 Crescent Island 的新款人工智能芯片。该芯片采用风冷散热设计。它在价格和运行温度上都将优于 NVIDIA 和 AMD 的竞品。Intel 试图通过高性价比方案争夺算力市场份额。
+
+脑机接口领域迎来了重大里程碑。中国正式批准了全球首款侵入式脑机接口芯片并进入临床测试。一名高位截瘫六年的患者接受了植入。他现在已经能够尝试握笔写字。这标志着中国在神经科技领域的商业化迈出关键一步。它有望为重度神经损伤患者提供新的医学干预手段。
+
+消费硬件端也出现了有趣的新物种。知名品牌制糖工厂发布了名为 Mirror 的人工智能小电拼。官方称其为全球首款智能体电源。它支持一百六十瓦快充。在软件层面它内置了操作系统并支持 AI Agent 原生接入。该产品打破了充电头的单一属性。它探索了桌面外设向智能终端转型的路径。
+
+我们再来看看创业融资和互联网平台的最新消息。
+
+聚焦三维生成的初创公司 VAST 完成了新一轮融资。本轮融资规模近两亿美元。他们正式对外披露了世界模型的技术路线。VAST 致力于构建真正在物理空间中运转并支持交互的底层模型。这笔巨额融资标志着资本市场对空间生成前景的高度认可。
+
+随着数据价值的提升，平台方开始加强数据保护。运动追踪平台 Strava 宣布严厉打击未经授权的数据抓取。只有经过身份验证的用户才能查看公共个人资料。此举旨在将平台数据置于认证墙后。他们希望防止人工智能公司免费抓取极具价值的用户健康数据。
+
+抵触人工智能的群体也有了新工具。主打隐私保护的搜索引擎 DuckDuckGo 降低了无人工智能搜索的门槛。他们面向浏览器用户推出了专门的扩展程序。这能避免自动生成内容对搜索结果的干扰。该工具满足了部分用户对纯粹传统搜索体验的需求。
+
+最后，我们来关注一下政策监管与网络安全。
+
+网络安全研究人员披露了一种名为 FROST 的新型攻击技术。恶意网站能利用简单的脚本代码窃取隐私。他们可以精确测量本地固态硬盘的活动轨迹。攻击者无需系统特殊权限就能绕过浏览器的安全隔离。他们能直接监控用户的本地硬盘数据状态。这给互联网隐私安全带来了全新挑战。
+
+人工智能基础设施的环保问题也引发关注。知名环保活动家 Erin Brockovich 将目光投向了数据中心。她特别针对数据中心在水资源和电力消耗上的保密行为展开调查。科技巨头不断扩张计算能力带来了高强度的资源消耗。此举旨在推动科技行业提升资源使用的透明度。
 
 以上就是今天的内容，我们明天见。</itunes:summary>
     </item>

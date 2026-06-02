@@ -12,9 +12,9 @@ wheels/
 # secrets
 .env
 
-# 大文件不进 Git(关键!音频走 R2,本地暂存不提交)
-site/audio/*.mp3
-*.mp3
+# 不再排除 mp3:由于 mify 是内网,GH Actions 跨不了,改成本地 launchd 跑 + push,
+# mp3 进 Git 由 CF Pages 直接服务(单仓库一年约 1GB,可接受)。
+# 如果某天换 R2 / git-lfs,再来加排除规则。
 
 # 系统
 .DS_Store

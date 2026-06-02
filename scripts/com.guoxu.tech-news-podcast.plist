@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  launchd 配置:每天上午 10:03(避开整点高峰)跑一次 daily.sh
+  安装方式见 README -> "本地定时调度"小节
+  - Mac 必须开机/不睡眠才会触发(合盖+插电也不会唤醒)
+  - 如果错过了 10:03(Mac 还睡着),下次唤醒/登录时 launchd 会自动补跑一次
+-->
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Label</key>
+  <string>com.guoxu.tech-news-podcast</string>
+
+  <key>ProgramArguments</key>
+  <array>
+    <string>/bin/zsh</string>
+    <string>-l</string>
+    <string>REPLACE_PROJECT_DIR/scripts/daily.sh</string>
+  </array>
+
+  <key>StartCalendarInterval</key>
+  <dict>
+    <key>Hour</key>
+    <integer>10</integer>
+    <key>Minute</key>
+    <integer>3</integer>
+  </dict>
+
+  <!-- Mac 错过时间(睡眠/关机)后唤醒时立即补跑一次 -->
+  <key>RunAtLoad</key>
+  <false/>
+
+  <!-- 进程崩溃时 launchd 不要立即重启,等下次定时点 -->
+  <key>KeepAlive</key>
+  <false/>
+
+  <!-- 日志 -->
+  <key>StandardOutPath</key>
+  <string>REPLACE_PROJECT_DIR/logs/launchd.out.log</string>
+  <key>StandardErrorPath</key>
+  <string>REPLACE_PROJECT_DIR/logs/launchd.err.log</string>
+
+  <!-- 工作目录 -->
+  <key>WorkingDirectory</key>
+  <string>REPLACE_PROJECT_DIR</string>
+</dict>
+</plist>
