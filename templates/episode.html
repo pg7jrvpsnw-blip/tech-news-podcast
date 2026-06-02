@@ -4,7 +4,7 @@
 
 <section class="hero">
   <div class="hero-cover">
-    <img src="/static/cover.svg" alt="{{ podcast.title }} 封面" />
+    <img src="{{ podcast.site_url }}/static/cover.svg" alt="{{ podcast.title }} 封面" />
   </div>
   <div class="hero-meta">
     <div class="hero-eyebrow">最新一期 · {{ episode.weekday }}</div>
@@ -25,7 +25,7 @@
      data-title="{{ episode.date_pretty }} 科技日报"
      data-album="{{ podcast.title }}"
      data-artist="{{ podcast.author }}"
-     data-artwork="/static/cover.png">
+     data-artwork="{{ podcast.site_url }}/static/cover.png">
   <audio preload="metadata" src="{{ episode.audio_url }}"></audio>
   <div class="player-row">
     <button class="btn-skip" data-skip="-15" aria-label="后退 15 秒">-15</button>
@@ -98,5 +98,5 @@
 
 {% endblock %}
 {% block scripts %}
-<script src="/static/player.js" defer></script>
+<script src="{{ podcast.site_url }}/static/player.js" defer></script>
 {% endblock %}

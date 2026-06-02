@@ -2,21 +2,21 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>每日科技速读</title>
-    <link>http://localhost:8765/feed.xml</link>
+    <link>https://pg7jrvpsnw-blip.github.io/tech-news-podcast/feed.xml</link>
     <description>每天 5 分钟,听完昨天最重要的科技新闻。AI 总结播报,中英文一手信息。</description>
-    <atom:link href="http://localhost:8765/feed.xml" rel="self"/>
+    <atom:link href="https://pg7jrvpsnw-blip.github.io/tech-news-podcast/feed.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <image>
-      <url>http://localhost:8765/static/cover.png</url>
+      <url>https://pg7jrvpsnw-blip.github.io/tech-news-podcast/static/cover.png</url>
       <title>每日科技速读</title>
-      <link>http://localhost:8765/feed.xml</link>
+      <link>https://pg7jrvpsnw-blip.github.io/tech-news-podcast/feed.xml</link>
     </image>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 02 Jun 2026 03:41:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 08:10:46 +0000</lastBuildDate>
     <itunes:author>AI 主播</itunes:author>
     <itunes:category text="Technology"/>
-    <itunes:image href="http://localhost:8765/static/cover.png"/>
+    <itunes:image href="https://pg7jrvpsnw-blip.github.io/tech-news-podcast/static/cover.png"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:owner>
       <itunes:name>AI 主播</itunes:name>
@@ -25,7 +25,7 @@
     <itunes:summary>每天 5 分钟,听完昨天最重要的科技新闻。AI 总结播报,中英文一手信息。</itunes:summary>
     <item>
       <title>2026-05-25 科技日报</title>
-      <link>http://localhost:8765/episodes/2026-05-25.html</link>
+      <link>https://pg7jrvpsnw-blip.github.io/tech-news-podcast/episodes/2026-05-25.html</link>
       <description>共收录 2 条科技新闻。
 
 【硬件】
@@ -45,7 +45,7 @@
     </item>
     <item>
       <title>2026-05-26 科技日报</title>
-      <link>http://localhost:8765/episodes/2026-05-26.html</link>
+      <link>https://pg7jrvpsnw-blip.github.io/tech-news-podcast/episodes/2026-05-26.html</link>
       <description>共收录 22 条科技新闻。
 
 【AI模型】
@@ -115,7 +115,7 @@
     </item>
     <item>
       <title>2026-05-28 科技日报</title>
-      <link>http://localhost:8765/episodes/2026-05-28.html</link>
+      <link>https://pg7jrvpsnw-blip.github.io/tech-news-podcast/episodes/2026-05-28.html</link>
       <description>共收录 50 条科技新闻。
 
 【硬件】
@@ -206,7 +206,7 @@ AI 辅助科研正获得顶级资本的青睐。零零后创业者洪乐潼创�
     </item>
     <item>
       <title>2026-06-01 科技日报</title>
-      <link>http://localhost:8765/episodes/2026-06-01.html</link>
+      <link>https://pg7jrvpsnw-blip.github.io/tech-news-podcast/episodes/2026-06-01.html</link>
       <description>共收录 50 条科技新闻。
 
 【学术研究】

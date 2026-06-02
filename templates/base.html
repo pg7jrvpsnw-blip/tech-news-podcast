@@ -10,39 +10,39 @@
 <meta name="description" content="{{ podcast.description }}" />
 
 <!-- 标准图标 -->
-<link rel="icon" type="image/svg+xml" href="/static/favicon.svg" />
-<link rel="icon" type="image/png" sizes="192x192" href="/static/icon-192.png" />
+<link rel="icon" type="image/svg+xml" href="{{ podcast.site_url }}/static/favicon.svg" />
+<link rel="icon" type="image/png" sizes="192x192" href="{{ podcast.site_url }}/static/icon-192.png" />
 
 <!-- iOS 主屏图标 + 启动样式 -->
-<link rel="apple-touch-icon" sizes="180x180" href="/static/apple-touch-icon.png" />
+<link rel="apple-touch-icon" sizes="180x180" href="{{ podcast.site_url }}/static/apple-touch-icon.png" />
 <meta name="apple-mobile-web-app-capable" content="yes" />
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
 <meta name="apple-mobile-web-app-title" content="科技速读" />
 
 <!-- PWA -->
-<link rel="manifest" href="/static/manifest.json" />
+<link rel="manifest" href="{{ podcast.site_url }}/static/manifest.json" />
 
 <!-- 订阅 -->
-<link rel="alternate" type="application/rss+xml" title="{{ podcast.title }} 播客订阅" href="/feed.xml" />
+<link rel="alternate" type="application/rss+xml" title="{{ podcast.title }} 播客订阅" href="{{ podcast.site_url }}/feed.xml" />
 
 <!-- OpenGraph (微信/IM 分享卡片) -->
 <meta property="og:title" content="{% block og_title %}{{ podcast.title }}{% endblock %}" />
 <meta property="og:description" content="{{ podcast.description }}" />
-<meta property="og:image" content="/static/cover.png" />
+<meta property="og:image" content="{{ podcast.site_url }}/static/cover.png" />
 <meta property="og:type" content="website" />
 
-<link rel="stylesheet" href="/static/style.css" />
+<link rel="stylesheet" href="{{ podcast.site_url }}/static/style.css" />
 </head>
 <body>
 <header class="topbar">
   <div class="container">
-    <a href="/" class="brand">
+    <a href="{{ podcast.site_url }}/" class="brand">
       <span class="brand-logo" aria-hidden="true"></span>
       <span>{{ podcast.title }}</span>
     </a>
     <nav class="topnav">
-      <a href="/archive.html">历史</a>
-      <a href="/feed.xml" class="subscribe" title="复制 RSS URL 到播客 App 订阅">
+      <a href="{{ podcast.site_url }}/archive.html">历史</a>
+      <a href="{{ podcast.site_url }}/feed.xml" class="subscribe" title="复制 RSS URL 到播客 App 订阅">
         <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M6.18 17.82a2.18 2.18 0 1 1-4.36 0 2.18 2.18 0 0 1 4.36 0M2 8.86A12.93 12.93 0 0 1 15.14 22h2.83A15.81 15.81 0 0 0 2 6.03zm0-4.99A17.91 17.91 0 0 1 20.13 22h2.83C22.96 11.96 12.04 1.04 2 1.04z"/></svg>
         订阅播客
       </a>
@@ -54,7 +54,7 @@
 </main>
 <footer class="container">
   <p>由 AI 自动生成 · {{ podcast.author }}</p>
-  <p>把 <a href="/feed.xml">/feed.xml</a> 粘贴到 Apple Podcasts / 小宇宙 / Pocket Casts 即可订阅</p>
+  <p>把 <a href="{{ podcast.site_url }}/feed.xml">/feed.xml</a> 粘贴到 Apple Podcasts / 小宇宙 / Pocket Casts 即可订阅</p>
 </footer>
 {% block scripts %}{% endblock %}
 </body>
